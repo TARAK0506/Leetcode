@@ -1,30 +1,20 @@
 class Solution {
 public:
-    int maxCount(vector<int>& banned, int n, int maxSum) {
-        set<int, greater<int> >s1;
-        set<int, greater<int>>::iterator itr;
-        for(auto it:banned)
-        {
-            if(it<=n)
-            {
-                s1.insert(it);
-            }
-        }
-        // for(itr=s1.begin();itr!=s1.end();itr++)
-        // {
-        //     cout<<*itr<<" ";
-        // }
-        // cout<<s1.size()<<endl;
+    int maxCount(vector<int>& banned, int n, int maxSum) 
+    {
         int sum=0,count=0;
+        unordered_map<int,int> m;
+        for(auto i : banned) m[i]++;
         for(int i=1;i<=n;i++)
         {
-            if(s1.find(i)==s1.end())
+            sum=sum+i;
+            if(!m[i] && sum<=maxSum)
             {
-                sum+=i;
-                if(sum<=maxSum)
-                {
-                    count++;
-                }
+                count++;
+            }
+            else
+            {
+                sum=sum-i;
             }
         }
         return count;
