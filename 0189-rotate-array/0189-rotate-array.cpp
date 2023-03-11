@@ -15,9 +15,6 @@ public:
         {
             arr[k+i]=nums[i];
         }
-        for(int i=0;i<arr.size();i++)
-        {
-            nums[i]=arr[i];
-        }
+        nums=arr;
     }
 };
