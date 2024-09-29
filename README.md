@@ -23,4 +23,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/TARAK0506/LEETCODE/tree/master/0238-product-of-array-except-self) |
+## Database
+|  |
+| ------- |
+| [3530-odd-and-even-transactions](https://github.com/TARAK0506/LEETCODE/tree/master/3530-odd-and-even-transactions) |
 <!---LeetCode Topics End-->
