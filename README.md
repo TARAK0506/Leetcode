@@ -26,5 +26,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## Database
 |  |
 | ------- |
+| [1155-product-sales-analysis-iii](https://github.com/TARAK0506/LEETCODE/tree/master/1155-product-sales-analysis-iii) |
 | [3530-odd-and-even-transactions](https://github.com/TARAK0506/LEETCODE/tree/master/3530-odd-and-even-transactions) |
 <!---LeetCode Topics End-->
