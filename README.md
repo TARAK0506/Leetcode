@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/TARAK0506/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0513-find-bottom-left-tree-value](https://github.com/TARAK0506/LEETCODE/tree/master/0513-find-bottom-left-tree-value) |
 ## Depth-First Search
 |  |
@@ -22,5 +23,14 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/TARAK0506/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0513-find-bottom-left-tree-value](https://github.com/TARAK0506/LEETCODE/tree/master/0513-find-bottom-left-tree-value) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/TARAK0506/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/TARAK0506/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
