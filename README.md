@@ -40,4 +40,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0501-find-mode-in-binary-search-tree) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/TARAK0506/LEETCODE/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/TARAK0506/LEETCODE/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
