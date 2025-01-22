@@ -43,4 +43,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/TARAK0506/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+## String
+|  |
+| ------- |
+| [3636-check-balanced-string](https://github.com/TARAK0506/LEETCODE/tree/master/3636-check-balanced-string) |
 <!---LeetCode Topics End-->
