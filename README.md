@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/TARAK0506/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/TARAK0506/LEETCODE/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3636-check-balanced-string](https://github.com/TARAK0506/LEETCODE/tree/master/3636-check-balanced-string) |
 ## Math
@@ -62,4 +63,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/TARAK0506/LEETCODE/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/TARAK0506/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
