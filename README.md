@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [2728-sum-in-a-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/2728-sum-in-a-matrix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/TARAK0506/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/TARAK0506/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Hash Table
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2728-sum-in-a-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/2728-sum-in-a-matrix) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/TARAK0506/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## String
 |  |
@@ -73,5 +75,14 @@ Collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [2728-sum-in-a-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/2728-sum-in-a-matrix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/TARAK0506/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+## Sorting
+|  |
+| ------- |
+| [2728-sum-in-a-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/2728-sum-in-a-matrix) |
+## Matrix
+|  |
+| ------- |
+| [2728-sum-in-a-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/2728-sum-in-a-matrix) |
 <!---LeetCode Topics End-->
