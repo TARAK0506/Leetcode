@@ -6,10 +6,12 @@ Collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1005-univalued-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1005-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1005-univalued-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1005-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -18,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1005-univalued-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1005-univalued-binary-tree) |
 ## Linked List
 |  |
@@ -85,4 +88,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2728-sum-in-a-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/2728-sum-in-a-matrix) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
