@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/TARAK0506/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [2227-sum-of-subarray-ranges](https://github.com/TARAK0506/LEETCODE/tree/master/2227-sum-of-subarray-ranges) |
 | [2728-sum-in-a-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/2728-sum-in-a-matrix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/TARAK0506/LEETCODE/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -105,10 +106,15 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/TARAK0506/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/TARAK0506/LEETCODE/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [2227-sum-of-subarray-ranges](https://github.com/TARAK0506/LEETCODE/tree/master/2227-sum-of-subarray-ranges) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/TARAK0506/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
