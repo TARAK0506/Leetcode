@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2728-sum-in-a-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/2728-sum-in-a-matrix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/TARAK0506/LEETCODE/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/TARAK0506/LEETCODE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/TARAK0506/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/TARAK0506/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Hash Table
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0070-climbing-stairs](https://github.com/TARAK0506/LEETCODE/tree/master/0070-climbing-stairs) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/TARAK0506/LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/TARAK0506/LEETCODE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2728-sum-in-a-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/2728-sum-in-a-matrix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/TARAK0506/LEETCODE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/TARAK0506/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sorting
 |  |
@@ -120,4 +123,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TARAK0506/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+## Combinatorics
+|  |
+| ------- |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/TARAK0506/LEETCODE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+## Prefix Sum
+|  |
+| ------- |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/TARAK0506/LEETCODE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 <!---LeetCode Topics End-->
