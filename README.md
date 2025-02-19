@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0764-n-ary-tree-level-order-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1005-univalued-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1005-univalued-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/TARAK0506/LEETCODE/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
@@ -17,17 +18,20 @@ Collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1005-univalued-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1005-univalued-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/TARAK0506/LEETCODE/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [1005-univalued-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1005-univalued-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1005-univalued-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1005-univalued-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/TARAK0506/LEETCODE/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Linked List
 |  |
