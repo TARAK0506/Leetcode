@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TARAK0506/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/TARAK0506/LEETCODE/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2227-sum-of-subarray-ranges](https://github.com/TARAK0506/LEETCODE/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/TARAK0506/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 | [2728-sum-in-a-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/2728-sum-in-a-matrix) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/TARAK0506/LEETCODE/tree/master/0070-climbing-stairs) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/TARAK0506/LEETCODE/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Memoization
 |  |
 | ------- |
