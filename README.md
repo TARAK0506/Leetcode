@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2551-apply-operations-to-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/TARAK0506/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2728-sum-in-a-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/2728-sum-in-a-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/TARAK0506/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/TARAK0506/LEETCODE/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/TARAK0506/LEETCODE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/TARAK0506/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/TARAK0506/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/TARAK0506/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/TARAK0506/LEETCODE/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/TARAK0506/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0070-climbing-stairs](https://github.com/TARAK0506/LEETCODE/tree/master/0070-climbing-stairs) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/TARAK0506/LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
+| [3227-find-missing-and-repeated-values](https://github.com/TARAK0506/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/TARAK0506/LEETCODE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Dynamic Programming
 |  |
@@ -141,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2728-sum-in-a-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/2728-sum-in-a-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/TARAK0506/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search Tree
 |  |
 | ------- |
