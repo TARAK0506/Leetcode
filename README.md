@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/TARAK0506/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/TARAK0506/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -45,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/TARAK0506/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -57,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/TARAK0506/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0838-design-linked-list](https://github.com/TARAK0506/LEETCODE/tree/master/0838-design-linked-list) |
 ## Design
 |  |
@@ -126,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/TARAK0506/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/TARAK0506/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2227-sum-of-subarray-ranges](https://github.com/TARAK0506/LEETCODE/tree/master/2227-sum-of-subarray-ranges) |
