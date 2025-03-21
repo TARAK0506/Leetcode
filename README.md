@@ -183,4 +183,8 @@ Collection of LeetCode questions to ace the coding interview!
 | [2265-partition-array-according-to-given-pivot](https://github.com/TARAK0506/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/TARAK0506/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+## Database
+|  |
+| ------- |
+| [1338-queries-quality-and-percentage](https://github.com/TARAK0506/LEETCODE/tree/master/1338-queries-quality-and-percentage) |
 <!---LeetCode Topics End-->
