@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2551-apply-operations-to-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/TARAK0506/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2728-sum-in-a-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/2728-sum-in-a-matrix) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/TARAK0506/LEETCODE/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/TARAK0506/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/TARAK0506/LEETCODE/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
