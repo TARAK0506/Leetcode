@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/TARAK0506/LEETCODE/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/TARAK0506/LEETCODE/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1731-even-odd-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/TARAK0506/LEETCODE/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/TARAK0506/LEETCODE/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -45,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1005-univalued-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1005-univalued-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/TARAK0506/LEETCODE/tree/master/1254-deepest-leaves-sum) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1731-even-odd-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -59,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/TARAK0506/LEETCODE/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/TARAK0506/LEETCODE/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1731-even-odd-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Linked List
