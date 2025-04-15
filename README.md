@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/TARAK0506/LEETCODE/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TARAK0506/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/TARAK0506/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/TARAK0506/LEETCODE/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TARAK0506/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/TARAK0506/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -59,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/TARAK0506/LEETCODE/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TARAK0506/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/TARAK0506/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0671-second-minimum-node-in-a-binary-tree) |
