@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2227-sum-of-subarray-ranges](https://github.com/TARAK0506/LEETCODE/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/TARAK0506/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/TARAK0506/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/TARAK0506/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2728-sum-in-a-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/2728-sum-in-a-matrix) |
