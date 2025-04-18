@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TARAK0506/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0838-design-linked-list](https://github.com/TARAK0506/LEETCODE/tree/master/0838-design-linked-list) |
