@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2232-adding-spaces-to-a-string](https://github.com/TARAK0506/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/TARAK0506/LEETCODE/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3636-check-balanced-string](https://github.com/TARAK0506/LEETCODE/tree/master/3636-check-balanced-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/TARAK0506/LEETCODE/tree/master/3811-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/TARAK0506/LEETCODE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/TARAK0506/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3811-reverse-degree-of-a-string](https://github.com/TARAK0506/LEETCODE/tree/master/3811-reverse-degree-of-a-string) |
 ## Sorting
 |  |
 | ------- |
