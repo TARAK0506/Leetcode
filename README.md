@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/TARAK0506/LEETCODE/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TARAK0506/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/TARAK0506/LEETCODE/tree/master/0086-partition-list) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/TARAK0506/LEETCODE/tree/master/0802-k-th-smallest-prime-fraction) |
 | [2232-adding-spaces-to-a-string](https://github.com/TARAK0506/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/TARAK0506/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
