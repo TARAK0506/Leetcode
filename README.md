@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/TARAK0506/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1542-consecutive-characters](https://github.com/TARAK0506/LEETCODE/tree/master/1542-consecutive-characters) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/TARAK0506/LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
+| [2128-reverse-prefix-of-word](https://github.com/TARAK0506/LEETCODE/tree/master/2128-reverse-prefix-of-word) |
 | [2232-adding-spaces-to-a-string](https://github.com/TARAK0506/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/TARAK0506/LEETCODE/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3636-check-balanced-string](https://github.com/TARAK0506/LEETCODE/tree/master/3636-check-balanced-string) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TARAK0506/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/TARAK0506/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2128-reverse-prefix-of-word](https://github.com/TARAK0506/LEETCODE/tree/master/2128-reverse-prefix-of-word) |
 | [2227-sum-of-subarray-ranges](https://github.com/TARAK0506/LEETCODE/tree/master/2227-sum-of-subarray-ranges) |
 ## Simulation
 |  |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0086-partition-list](https://github.com/TARAK0506/LEETCODE/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/TARAK0506/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/TARAK0506/LEETCODE/tree/master/0802-k-th-smallest-prime-fraction) |
+| [2128-reverse-prefix-of-word](https://github.com/TARAK0506/LEETCODE/tree/master/2128-reverse-prefix-of-word) |
 | [2232-adding-spaces-to-a-string](https://github.com/TARAK0506/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/TARAK0506/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
