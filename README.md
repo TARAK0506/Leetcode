@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2551-apply-operations-to-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/TARAK0506/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2728-sum-in-a-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/2728-sum-in-a-matrix) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/TARAK0506/LEETCODE/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/TARAK0506/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/TARAK0506/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1464-reduce-array-size-to-the-half](https://github.com/TARAK0506/LEETCODE/tree/master/1464-reduce-array-size-to-the-half) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/TARAK0506/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/TARAK0506/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/TARAK0506/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/TARAK0506/LEETCODE/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/TARAK0506/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/TARAK0506/LEETCODE/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/TARAK0506/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Heap (Priority Queue)
