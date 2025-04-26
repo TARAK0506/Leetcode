@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/TARAK0506/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/TARAK0506/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/TARAK0506/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/TARAK0506/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/TARAK0506/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/TARAK0506/LEETCODE/tree/master/0070-climbing-stairs) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/TARAK0506/LEETCODE/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Memoization
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/TARAK0506/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0086-partition-list](https://github.com/TARAK0506/LEETCODE/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/TARAK0506/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/TARAK0506/LEETCODE/tree/master/0802-k-th-smallest-prime-fraction) |
