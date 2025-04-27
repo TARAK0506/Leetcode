@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TARAK0506/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0209-minimum-size-subarray-sum](https://github.com/TARAK0506/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/TARAK0506/LEETCODE/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0890-lemonade-change](https://github.com/TARAK0506/LEETCODE/tree/master/0890-lemonade-change) |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/TARAK0506/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/TARAK0506/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/TARAK0506/LEETCODE/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TARAK0506/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0209-minimum-size-subarray-sum](https://github.com/TARAK0506/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/TARAK0506/LEETCODE/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/TARAK0506/LEETCODE/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -229,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/TARAK0506/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/TARAK0506/LEETCODE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Two Pointers
 |  |
