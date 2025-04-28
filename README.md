@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2232-adding-spaces-to-a-string](https://github.com/TARAK0506/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/TARAK0506/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/TARAK0506/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2551-apply-operations-to-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/TARAK0506/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2728-sum-in-a-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/2728-sum-in-a-matrix) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/TARAK0506/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/TARAK0506/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/TARAK0506/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/TARAK0506/LEETCODE/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/TARAK0506/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/TARAK0506/LEETCODE/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/TARAK0506/LEETCODE/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/TARAK0506/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -233,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/TARAK0506/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/TARAK0506/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/TARAK0506/LEETCODE/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Two Pointers
 |  |
