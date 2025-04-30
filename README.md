@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0802-k-th-smallest-prime-fraction](https://github.com/TARAK0506/LEETCODE/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0837-most-common-word](https://github.com/TARAK0506/LEETCODE/tree/master/0837-most-common-word) |
 | [0890-lemonade-change](https://github.com/TARAK0506/LEETCODE/tree/master/0890-lemonade-change) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/TARAK0506/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1464-reduce-array-size-to-the-half](https://github.com/TARAK0506/LEETCODE/tree/master/1464-reduce-array-size-to-the-half) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/TARAK0506/LEETCODE/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2227-sum-of-subarray-ranges](https://github.com/TARAK0506/LEETCODE/tree/master/2227-sum-of-subarray-ranges) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/TARAK0506/LEETCODE/tree/master/0070-climbing-stairs) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/TARAK0506/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/TARAK0506/LEETCODE/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/TARAK0506/LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3227-find-missing-and-repeated-values](https://github.com/TARAK0506/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
