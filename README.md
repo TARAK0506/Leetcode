@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0802-k-th-smallest-prime-fraction](https://github.com/TARAK0506/LEETCODE/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0837-most-common-word](https://github.com/TARAK0506/LEETCODE/tree/master/0837-most-common-word) |
 | [0890-lemonade-change](https://github.com/TARAK0506/LEETCODE/tree/master/0890-lemonade-change) |
+| [1293-three-consecutive-odds](https://github.com/TARAK0506/LEETCODE/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TARAK0506/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1464-reduce-array-size-to-the-half](https://github.com/TARAK0506/LEETCODE/tree/master/1464-reduce-array-size-to-the-half) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/TARAK0506/LEETCODE/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
