@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/TARAK0506/LEETCODE/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/TARAK0506/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/TARAK0506/LEETCODE/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/TARAK0506/LEETCODE/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/TARAK0506/LEETCODE/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3636-check-balanced-string](https://github.com/TARAK0506/LEETCODE/tree/master/3636-check-balanced-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/TARAK0506/LEETCODE/tree/master/3811-reverse-degree-of-a-string) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/TARAK0506/LEETCODE/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Math
 |  |
 | ------- |
@@ -221,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/TARAK0506/LEETCODE/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1464-reduce-array-size-to-the-half](https://github.com/TARAK0506/LEETCODE/tree/master/1464-reduce-array-size-to-the-half) |
 | [2728-sum-in-a-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/2728-sum-in-a-matrix) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/TARAK0506/LEETCODE/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -280,8 +283,10 @@ Collection of LeetCode questions to ace the coding interview!
 | [0890-lemonade-change](https://github.com/TARAK0506/LEETCODE/tree/master/0890-lemonade-change) |
 | [1464-reduce-array-size-to-the-half](https://github.com/TARAK0506/LEETCODE/tree/master/1464-reduce-array-size-to-the-half) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/TARAK0506/LEETCODE/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/TARAK0506/LEETCODE/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Counting
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/TARAK0506/LEETCODE/tree/master/0837-most-common-word) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/TARAK0506/LEETCODE/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 <!---LeetCode Topics End-->
