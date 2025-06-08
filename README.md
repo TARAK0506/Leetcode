@@ -274,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Database
 |  |
 | ------- |
+| [0185-department-top-three-salaries](https://github.com/TARAK0506/LEETCODE/tree/master/0185-department-top-three-salaries) |
 | [1338-queries-quality-and-percentage](https://github.com/TARAK0506/LEETCODE/tree/master/1338-queries-quality-and-percentage) |
 ## Quickselect
 |  |
