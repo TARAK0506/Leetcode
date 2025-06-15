@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TARAK0506/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/TARAK0506/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/TARAK0506/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/TARAK0506/LEETCODE/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TARAK0506/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/TARAK0506/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/TARAK0506/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/TARAK0506/LEETCODE/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/TARAK0506/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0086-partition-list](https://github.com/TARAK0506/LEETCODE/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/TARAK0506/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/TARAK0506/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/TARAK0506/LEETCODE/tree/master/0802-k-th-smallest-prime-fraction) |
 | [2128-reverse-prefix-of-word](https://github.com/TARAK0506/LEETCODE/tree/master/2128-reverse-prefix-of-word) |
 | [2232-adding-spaces-to-a-string](https://github.com/TARAK0506/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
