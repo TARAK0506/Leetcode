@@ -2,21 +2,21 @@ class Solution {
 public:
     int evalRPN(vector<string>& tokens) {
         stack<int> st;
-        int a = 0, b = 0;
+        int operand1 = 0, operand2 = 0;
         for (auto ch : tokens) {
             if (ch == "+" || ch == "-" || ch == "*" || ch == "/") {
-                a = st.top();
+                operand1 = st.top();
                 st.pop();
-                b = st.top();
+                operand2 = st.top();
                 st.pop();
                 if (ch == "+")
-                    st.push(b + a);
+                    st.push(operand2 + operand1);
                 if (ch == "-")
-                    st.push(b - a);
+                    st.push(operand2 - operand1);
                 if (ch == "*")
-                    st.push(b * a);
+                    st.push(operand2 * operand1);
                 if (ch == "/")
-                    st.push(b / a);
+                    st.push(operand2 / operand1);
             } else {
                 st.push(stoi(ch));
             }
