@@ -18,7 +18,7 @@ ListNode* reverseList(ListNode* start ,ListNode* end){
         prev = curr;
         curr = next;
     }
-    return prev; 
+    return prev; // New head of the reversed section
 }
 
 class Solution {
