@@ -1,24 +1,26 @@
 class Solution {
 public:
-    bool isvowel(char ch) {
+    bool isVowel(char ch) {
         if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u')
             return true;
         else
             return false;
     }
     int maxFreqSum(string s) {
-        unordered_map<char, int> mp;
-        for (auto ch : s) {
-            mp[ch]++;
+        vector<int> letters(26, 0);
+        for (int i = 0; i < s.length(); i++) {
+            letters[s[i] - 'a']++;
         }
-        int vowel_max_freq = 0, consonant_max_freq = 0;
-        for (auto ch : mp) {
-            if (isvowel(ch.first)) {
-                vowel_max_freq = max(vowel_max_freq, ch.second);
+        int vowelMaxFreq = 0, consonantMaxFreq = 0;
+        for (int i = 0; i < letters.size(); i++) {
+            char ch = 'a' + i;
+            if (isVowel(ch)) {
+                vowelMaxFreq = max(vowelMaxFreq, letters[i]);
             } else {
-                consonant_max_freq = max(consonant_max_freq, ch.second);
+                consonantMaxFreq = max(consonantMaxFreq, letters[i]);
             }
         }
-        return consonant_max_freq + vowel_max_freq;
+        int maxfreq = vowelMaxFreq + consonantMaxFreq;
+        return maxfreq;
     }
 };
