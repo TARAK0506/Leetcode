@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/TARAK0506/LEETCODE/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/TARAK0506/LEETCODE/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0278-first-bad-version](https://github.com/TARAK0506/LEETCODE/tree/master/0278-first-bad-version) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/TARAK0506/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Sliding Window
 |  |
@@ -49,4 +50,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/TARAK0506/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/TARAK0506/LEETCODE/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
