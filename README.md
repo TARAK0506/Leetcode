@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0069-sqrtx](https://github.com/TARAK0506/LEETCODE/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/TARAK0506/LEETCODE/tree/master/0367-valid-perfect-square) |
+| [2050-count-good-numbers](https://github.com/TARAK0506/LEETCODE/tree/master/2050-count-good-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +57,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/TARAK0506/LEETCODE/tree/master/0278-first-bad-version) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/TARAK0506/LEETCODE/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
