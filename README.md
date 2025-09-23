@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/TARAK0506/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/TARAK0506/LEETCODE/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/TARAK0506/LEETCODE/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Binary Search
 |  |
 | ------- |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0278-first-bad-version](https://github.com/TARAK0506/LEETCODE/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/TARAK0506/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/TARAK0506/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/TARAK0506/LEETCODE/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Sliding Window
 |  |
 | ------- |
@@ -61,4 +63,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/TARAK0506/LEETCODE/tree/master/2050-count-good-numbers) |
+## Sorting
+|  |
+| ------- |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/TARAK0506/LEETCODE/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 <!---LeetCode Topics End-->
