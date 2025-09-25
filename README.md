@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TARAK0506/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TARAK0506/LEETCODE/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/TARAK0506/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/TARAK0506/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/TARAK0506/LEETCODE/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/TARAK0506/LEETCODE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/TARAK0506/LEETCODE/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/TARAK0506/LEETCODE/tree/master/0367-valid-perfect-square) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/TARAK0506/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/TARAK0506/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/TARAK0506/LEETCODE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/TARAK0506/LEETCODE/tree/master/1615-range-sum-of-sorted-subarray-sums) |
