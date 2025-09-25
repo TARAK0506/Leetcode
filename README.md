@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0069-sqrtx](https://github.com/TARAK0506/LEETCODE/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/TARAK0506/LEETCODE/tree/master/0367-valid-perfect-square) |
+| [1585-the-kth-factor-of-n](https://github.com/TARAK0506/LEETCODE/tree/master/1585-the-kth-factor-of-n) |
 | [2050-count-good-numbers](https://github.com/TARAK0506/LEETCODE/tree/master/2050-count-good-numbers) |
 ## Hash Table
 |  |
@@ -88,4 +89,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/TARAK0506/LEETCODE/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/TARAK0506/LEETCODE/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
