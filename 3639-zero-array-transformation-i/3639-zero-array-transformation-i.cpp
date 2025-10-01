@@ -7,7 +7,8 @@ public:
             int l = query[0];
             int r = query[1];
             diffArray[l] += 1;
-            diffArray[r + 1] -= 1;
+            if (r + 1 < n)
+                diffArray[r + 1] -= 1;
         }
         for (int i = 1; i < n; i++) {
             diffArray[i] += diffArray[i - 1];
