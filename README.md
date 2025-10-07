@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/TARAK0506/LEETCODE/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/TARAK0506/LEETCODE/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/TARAK0506/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/TARAK0506/LEETCODE/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/TARAK0506/LEETCODE/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2665-minimum-time-to-repair-cars](https://github.com/TARAK0506/LEETCODE/tree/master/2665-minimum-time-to-repair-cars) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/TARAK0506/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/TARAK0506/LEETCODE/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/TARAK0506/LEETCODE/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/TARAK0506/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/TARAK0506/LEETCODE/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/TARAK0506/LEETCODE/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2665-minimum-time-to-repair-cars](https://github.com/TARAK0506/LEETCODE/tree/master/2665-minimum-time-to-repair-cars) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/TARAK0506/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/TARAK0506/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/TARAK0506/LEETCODE/tree/master/1675-magnetic-force-between-two-balls) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/TARAK0506/LEETCODE/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/TARAK0506/LEETCODE/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/TARAK0506/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Two Pointers
 |  |
