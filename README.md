@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/TARAK0506/LEETCODE/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/TARAK0506/LEETCODE/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/TARAK0506/LEETCODE/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/TARAK0506/LEETCODE/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/TARAK0506/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/TARAK0506/LEETCODE/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/TARAK0506/LEETCODE/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/TARAK0506/LEETCODE/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/TARAK0506/LEETCODE/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/TARAK0506/LEETCODE/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/TARAK0506/LEETCODE/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/TARAK0506/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/TARAK0506/LEETCODE/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/TARAK0506/LEETCODE/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
