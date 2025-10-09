@@ -23,9 +23,9 @@ public:
         }
         int n = nums.size();
         if (n % 2 == 0) {
-            return (nums[n/2 - 1] + nums[n/2]) / 2.0;
+            return (nums[n / 2 - 1] + nums[n / 2]) / 2.0;
         } else {
-            return nums[n/2];
+            return nums[n / 2];
         }
         return 0;
     }
