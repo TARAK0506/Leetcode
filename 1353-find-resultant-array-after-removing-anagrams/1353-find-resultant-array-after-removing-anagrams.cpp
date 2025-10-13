@@ -18,8 +18,8 @@ public:
         int n = words.size();
         vector<string> ans;
         ans.emplace_back(words[0]);
-        for(int i = 1; i < n; i++){
-            if(!isAnagram(words[i - 1], words[i])){
+        for (int i = 1; i < n; i++) {
+            if (!isAnagram(words[i], ans.back())) {
                 ans.emplace_back(words[i]);
             }
         }
