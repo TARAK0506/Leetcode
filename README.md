@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/TARAK0506/LEETCODE/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/TARAK0506/LEETCODE/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/TARAK0506/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/TARAK0506/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/TARAK0506/LEETCODE/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/TARAK0506/LEETCODE/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2665-minimum-time-to-repair-cars](https://github.com/TARAK0506/LEETCODE/tree/master/2665-minimum-time-to-repair-cars) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/TARAK0506/LEETCODE/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/TARAK0506/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/TARAK0506/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/TARAK0506/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -147,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/TARAK0506/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/TARAK0506/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
