@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/TARAK0506/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2665-minimum-time-to-repair-cars](https://github.com/TARAK0506/LEETCODE/tree/master/2665-minimum-time-to-repair-cars) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/TARAK0506/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/TARAK0506/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3639-zero-array-transformation-i](https://github.com/TARAK0506/LEETCODE/tree/master/3639-zero-array-transformation-i) |
 ## Binary Search
 |  |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2050-count-good-numbers](https://github.com/TARAK0506/LEETCODE/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/TARAK0506/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/TARAK0506/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/TARAK0506/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/TARAK0506/LEETCODE/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/TARAK0506/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/TARAK0506/LEETCODE/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/TARAK0506/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/TARAK0506/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/TARAK0506/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/TARAK0506/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
