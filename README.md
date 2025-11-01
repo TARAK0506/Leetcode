@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0092-reverse-linked-list-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TARAK0506/LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Array
 |  |
 | ------- |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/TARAK0506/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2665-minimum-time-to-repair-cars](https://github.com/TARAK0506/LEETCODE/tree/master/2665-minimum-time-to-repair-cars) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/TARAK0506/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TARAK0506/LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/TARAK0506/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3639-zero-array-transformation-i](https://github.com/TARAK0506/LEETCODE/tree/master/3639-zero-array-transformation-i) |
 ## Binary Search
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/TARAK0506/LEETCODE/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/TARAK0506/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/TARAK0506/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TARAK0506/LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/TARAK0506/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/TARAK0506/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
