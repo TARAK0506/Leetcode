@@ -1,43 +1,39 @@
 class Solution {
 public:
-    static bool compare(pair<int, int> p1, pair<int, int> p2) {
-        if (p1.second == p2.second)
-            return p2.first > p1.first;
-        return p2.second > p1.second;
-    }
-
-    int x_sum(vector<int>& nums, int x) {
+    int x_sum(unordered_map<int, int> mp, int x) {
         int sum = 0;
-        unordered_map<int, int> freq;
-        for (auto& it : nums) {
-            freq[it]++;
+        priority_queue<pair<int, int>> pq;
+        for (auto& [key, freq] : mp) {
+            pq.push({freq, key});
         }
-        priority_queue<pair<int, int>, vector<pair<int, int>>,
-                       function<bool(pair<int, int>, pair<int, int>)>>
-            pq(compare);
-
-        for (auto& pair : freq) {
-            pq.push({pair.first, pair.second});
-        }
-
-        while (!pq.empty() && x > 0) {
+        while (!pq.empty() && x--) {
             auto top = pq.top();
             pq.pop();
-            sum += top.second * top.first;
-            x--;
+            int freq = top.first;
+            while (freq--)
+                sum += top.second;
         }
         return sum;
     }
-    
     vector<int> findXSum(vector<int>& nums, int k, int x) {
-        vector<int> answer;
-        int n = nums.size();
-        int sum = 0;
-        for (int i = 0; i <= n - k; i++) {
-            vector<int> subarray(nums.begin() + i, nums.begin() + i + k);
-            int sum = x_sum(subarray, x);
-            answer.emplace_back(sum);
+        int i = 0, j = 0, n = nums.size(), idx = 0;
+        vector<int> ans(n - k + 1);
+        unordered_map<int, int> mp;
+        while (j < n) {
+            mp[nums[j]]++;
+            while ((j - i + 1) > k) {
+                mp[nums[i]]--;
+                if (mp[nums[i]] == 0) {
+                    mp.erase(nums[i]);
+                }
+                i++;
+            }
+            if (j - i + 1 == k) {
+                int xsum = x_sum(mp, x);
+                ans[idx++] = xsum;
+            }
+            j++;
         }
-        return answer;
+        return ans;
     }
 };
