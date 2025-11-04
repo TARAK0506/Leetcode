@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/TARAK0506/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TARAK0506/LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/TARAK0506/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/TARAK0506/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3639-zero-array-transformation-i](https://github.com/TARAK0506/LEETCODE/tree/master/3639-zero-array-transformation-i) |
 ## Binary Search
 |  |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/TARAK0506/LEETCODE/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/TARAK0506/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2174-next-greater-numerically-balanced-number](https://github.com/TARAK0506/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TARAK0506/LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/TARAK0506/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/TARAK0506/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/TARAK0506/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -202,4 +205,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3676-smallest-number-with-all-set-bits](https://github.com/TARAK0506/LEETCODE/tree/master/3676-smallest-number-with-all-set-bits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/TARAK0506/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->
