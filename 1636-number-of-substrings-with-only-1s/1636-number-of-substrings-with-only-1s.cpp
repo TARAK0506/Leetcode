@@ -1,17 +1,16 @@
 class Solution {
 public:
+    long long const MOD = 1e9 + 7;
     int numSub(string s) {
-        int l = 0, r = s.length() - 1;
-        long long cnt = 0, ans = 0, mod = 1e9 + 7;
-        while (l <= r) {
-            if (s[l] == '1') {
+        long long n = s.length(), ans = 0, cnt = 0;
+        for (int i = 0; i < n; i++) {
+            if (s[i] == '1')
                 cnt++;
-                ans += cnt;
-            } else {
+            else if (s[i] == '0') {
+                ans += ((cnt * (cnt + 1)) / 2 ) % MOD;
                 cnt = 0;
             }
-            l++;
         }
-        return ans % (mod);
+        return ans + (cnt * (cnt + 1)) / 2 % MOD;
     }
 };
