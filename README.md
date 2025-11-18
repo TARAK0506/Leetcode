@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/TARAK0506/LEETCODE/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0275-h-index-ii) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/TARAK0506/LEETCODE/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1206-corporate-flight-bookings](https://github.com/TARAK0506/LEETCODE/tree/master/1206-corporate-flight-bookings) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/TARAK0506/LEETCODE/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/TARAK0506/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
