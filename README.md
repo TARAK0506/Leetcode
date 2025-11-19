@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2179-most-beautiful-item-for-each-query](https://github.com/TARAK0506/LEETCODE/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/TARAK0506/LEETCODE/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/TARAK0506/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/TARAK0506/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2625-increment-submatrices-by-one](https://github.com/TARAK0506/LEETCODE/tree/master/2625-increment-submatrices-by-one) |
 | [2665-minimum-time-to-repair-cars](https://github.com/TARAK0506/LEETCODE/tree/master/2665-minimum-time-to-repair-cars) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/TARAK0506/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/TARAK0506/LEETCODE/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/TARAK0506/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/TARAK0506/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/TARAK0506/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TARAK0506/LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/TARAK0506/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/TARAK0506/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1675-magnetic-force-between-two-balls](https://github.com/TARAK0506/LEETCODE/tree/master/1675-magnetic-force-between-two-balls) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/TARAK0506/LEETCODE/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/TARAK0506/LEETCODE/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/TARAK0506/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/TARAK0506/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Two Pointers
 |  |
@@ -179,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/TARAK0506/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/TARAK0506/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/TARAK0506/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/TARAK0506/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Divide and Conquer
 |  |
