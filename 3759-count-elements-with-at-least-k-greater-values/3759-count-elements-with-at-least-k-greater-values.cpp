@@ -1,8 +1,8 @@
 class Solution {
 public:
-    int upperBound(vector<int>& nums, int target) {
+    int upperBound(vector<int>& nums, int target, int idx) {
         int n = nums.size();
-        int low = 0, high = n - 1, ans = n;
+        int low = idx, high = n - 1, ans = n;
 
         while (low <= high) {
             int mid = low + (high - low) / 2;
@@ -19,8 +19,7 @@ public:
         int n = nums.size(), ans = 0;
         sort(nums.begin(), nums.end());
         for (int i = 0; i < n; i++) {
-            int idx = upperBound(nums, nums[i]);
-            if (idx == n ? n : idx);
+            int idx = upperBound(nums, nums[i], i);
             if (n - idx >= k)
                 ans++;
         }
