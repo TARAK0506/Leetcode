@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1636-number-of-substrings-with-only-1s](https://github.com/TARAK0506/LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/TARAK0506/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/TARAK0506/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/TARAK0506/LEETCODE/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/TARAK0506/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/TARAK0506/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/TARAK0506/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/TARAK0506/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/TARAK0506/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/TARAK0506/LEETCODE/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/TARAK0506/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/TARAK0506/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Divide and Conquer
@@ -226,4 +228,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/TARAK0506/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+## Stack
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/TARAK0506/LEETCODE/tree/master/2211-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->
