@@ -9,7 +9,6 @@ public:
         for(int i = 1; i < n; i++){
             int leftSum = prefixSum[i];
             int rightSum = prefixSum[n] -  prefixSum[i];
-            // cout << leftSum <<" " << rightSum <<"\n";
             if((leftSum - rightSum) % 2 == 0) cnt++;
         }
         return cnt;
