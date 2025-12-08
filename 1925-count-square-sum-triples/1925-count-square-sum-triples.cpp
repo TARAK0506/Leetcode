@@ -20,7 +20,7 @@ public:
             for (int b = 1; b <= n; b++) {
                 int c = a * a + b * b;
                 if (c <= n * n && isPerfectSquare(c)) {
-                    cout << a << " " << b << " " << c << "\n";
+                    // cout << a << " " << b << " " << c << "\n";
                     cnt++;
                 }
             }
