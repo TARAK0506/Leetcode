@@ -1,15 +1,5 @@
 class Solution {
 public:
-    string reverseWord(string str) {
-        int n = str.length();
-        int i = 0, j = n - 1;
-        while (i < j) {
-            swap(str[i], str[j]);
-            i++;
-            j--;
-        }
-        return str;
-    }
     bool isVowel(char ch) {
         return (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u');
     }
@@ -32,7 +22,9 @@ public:
         string ans = "";
         for (int i = 0; i < words.size(); i++) {
             if (i != 0 && countVowel(words[i]) == cnt) {
-                ans += reverseWord(words[i]);
+                string w = words[i];
+                reverse(w.begin(), w.end());
+                ans += w;
             } else {
                 ans += words[i];
             }
