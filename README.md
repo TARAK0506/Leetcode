@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2625-increment-submatrices-by-one](https://github.com/TARAK0506/LEETCODE/tree/master/2625-increment-submatrices-by-one) |
 | [2665-minimum-time-to-repair-cars](https://github.com/TARAK0506/LEETCODE/tree/master/2665-minimum-time-to-repair-cars) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/TARAK0506/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3074-apple-redistribution-into-boxes](https://github.com/TARAK0506/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/TARAK0506/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TARAK0506/LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/TARAK0506/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2179-most-beautiful-item-for-each-query](https://github.com/TARAK0506/LEETCODE/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/TARAK0506/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/TARAK0506/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3074-apple-redistribution-into-boxes](https://github.com/TARAK0506/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -180,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/TARAK0506/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/TARAK0506/LEETCODE/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/TARAK0506/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3074-apple-redistribution-into-boxes](https://github.com/TARAK0506/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 ## Number Theory
 |  |
 | ------- |
