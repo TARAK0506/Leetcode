@@ -4,7 +4,7 @@ using namespace std;
 class Solution {
 public:
     long long maximumScore(vector<int>& nums) {
-        long long n = nums.size(), maxScore = LLONG_MIN;;
+        long long n = nums.size(), maxScore = LLONG_MIN;
         vector<long long> prefixSum(n, 0);
         prefixSum[0] = nums[0];
         for (int i = 1; i < n; i++) {
