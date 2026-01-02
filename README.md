@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0275-h-index-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0275-h-index-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/TARAK0506/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/TARAK0506/LEETCODE/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/TARAK0506/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/TARAK0506/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1206-corporate-flight-bookings](https://github.com/TARAK0506/LEETCODE/tree/master/1206-corporate-flight-bookings) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/TARAK0506/LEETCODE/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/TARAK0506/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/TARAK0506/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/TARAK0506/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/TARAK0506/LEETCODE/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/TARAK0506/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
