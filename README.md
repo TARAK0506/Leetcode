@@ -246,5 +246,10 @@ Collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/TARAK0506/LEETCODE/tree/master/0155-min-stack) |
 | [2211-count-collisions-on-a-road](https://github.com/TARAK0506/LEETCODE/tree/master/2211-count-collisions-on-a-road) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/TARAK0506/LEETCODE/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
