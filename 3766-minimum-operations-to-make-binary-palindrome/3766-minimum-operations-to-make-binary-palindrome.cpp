@@ -37,13 +37,15 @@ public:
         int n = nums.size();
         vector<int> ans(n);
         for (int i = 0; i < n; i++) {
-            auto it = lower_bound(binaryPalindromes.begin(),
+            auto lb = lower_bound(binaryPalindromes.begin(),
+                                  binaryPalindromes.end(), nums[i]);
+            auto ub = upper_bound(binaryPalindromes.begin(),
                                   binaryPalindromes.end(), nums[i]);
             int nearest = INT_MAX;
-            if (it != binaryPalindromes.end())
-                nearest = abs(*it - nums[i]);
-            if (it != binaryPalindromes.begin())
-                nearest = min(nearest, abs(*prev(it) - nums[i]));
+            if (lb != binaryPalindromes.end())
+                nearest = abs(*lb - nums[i]);
+            if (ub != binaryPalindromes.begin())
+                nearest = min(nearest, abs(*prev(ub) - nums[i]));
 
             ans[i] = nearest;
         }
