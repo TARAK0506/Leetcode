@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/TARAK0506/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/TARAK0506/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3639-zero-array-transformation-i](https://github.com/TARAK0506/LEETCODE/tree/master/3639-zero-array-transformation-i) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/TARAK0506/LEETCODE/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/TARAK0506/LEETCODE/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2665-minimum-time-to-repair-cars](https://github.com/TARAK0506/LEETCODE/tree/master/2665-minimum-time-to-repair-cars) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/TARAK0506/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/TARAK0506/LEETCODE/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -183,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/TARAK0506/LEETCODE/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/TARAK0506/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/TARAK0506/LEETCODE/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/TARAK0506/LEETCODE/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -244,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1018-binary-prefix-divisible-by-5](https://github.com/TARAK0506/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/TARAK0506/LEETCODE/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/TARAK0506/LEETCODE/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
