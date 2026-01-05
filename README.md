@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/TARAK0506/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/TARAK0506/LEETCODE/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/TARAK0506/LEETCODE/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1975-maximum-matrix-sum](https://github.com/TARAK0506/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/TARAK0506/LEETCODE/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/TARAK0506/LEETCODE/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/TARAK0506/LEETCODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/TARAK0506/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1975-maximum-matrix-sum](https://github.com/TARAK0506/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/TARAK0506/LEETCODE/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/TARAK0506/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3074-apple-redistribution-into-boxes](https://github.com/TARAK0506/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [1975-maximum-matrix-sum](https://github.com/TARAK0506/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/TARAK0506/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2625-increment-submatrices-by-one](https://github.com/TARAK0506/LEETCODE/tree/master/2625-increment-submatrices-by-one) |
 ## Counting Sort
