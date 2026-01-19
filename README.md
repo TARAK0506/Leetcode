@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/TARAK0506/LEETCODE/tree/master/0402-remove-k-digits) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/TARAK0506/LEETCODE/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/TARAK0506/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/TARAK0506/LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/TARAK0506/LEETCODE/tree/master/0402-remove-k-digits) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/TARAK0506/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1975-maximum-matrix-sum](https://github.com/TARAK0506/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/TARAK0506/LEETCODE/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/TARAK0506/LEETCODE/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/TARAK0506/LEETCODE/tree/master/0402-remove-k-digits) |
 | [2211-count-collisions-on-a-road](https://github.com/TARAK0506/LEETCODE/tree/master/2211-count-collisions-on-a-road) |
 ## Design
 |  |
@@ -280,4 +283,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/TARAK0506/LEETCODE/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
