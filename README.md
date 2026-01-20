@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2665-minimum-time-to-repair-cars](https://github.com/TARAK0506/LEETCODE/tree/master/2665-minimum-time-to-repair-cars) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/TARAK0506/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3074-apple-redistribution-into-boxes](https://github.com/TARAK0506/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/TARAK0506/LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/TARAK0506/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TARAK0506/LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/TARAK0506/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1018-binary-prefix-divisible-by-5](https://github.com/TARAK0506/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/TARAK0506/LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/TARAK0506/LEETCODE/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/TARAK0506/LEETCODE/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Heap (Priority Queue)
