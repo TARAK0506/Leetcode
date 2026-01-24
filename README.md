@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1675-magnetic-force-between-two-balls](https://github.com/TARAK0506/LEETCODE/tree/master/1675-magnetic-force-between-two-balls) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/TARAK0506/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/TARAK0506/LEETCODE/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/TARAK0506/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/TARAK0506/LEETCODE/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1975-maximum-matrix-sum](https://github.com/TARAK0506/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/TARAK0506/LEETCODE/tree/master/1984-maximum-distance-between-a-pair-of-values) |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/TARAK0506/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/TARAK0506/LEETCODE/tree/master/1675-magnetic-force-between-two-balls) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/TARAK0506/LEETCODE/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/TARAK0506/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/TARAK0506/LEETCODE/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/TARAK0506/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/TARAK0506/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/TARAK0506/LEETCODE/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/TARAK0506/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/TARAK0506/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/TARAK0506/LEETCODE/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/TARAK0506/LEETCODE/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Greedy
@@ -198,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0402-remove-k-digits](https://github.com/TARAK0506/LEETCODE/tree/master/0402-remove-k-digits) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/TARAK0506/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/TARAK0506/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/TARAK0506/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/TARAK0506/LEETCODE/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/TARAK0506/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
