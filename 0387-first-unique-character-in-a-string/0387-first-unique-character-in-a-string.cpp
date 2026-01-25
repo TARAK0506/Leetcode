@@ -8,8 +8,7 @@ public:
         }
         for (int i = 0; i < n; i++) {
             if (freq[s[i] - 'a'] == 1) {
-                ans = i;
-                break;
+                return i;
             }
         }
         return ans;
