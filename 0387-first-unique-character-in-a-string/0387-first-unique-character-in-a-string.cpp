@@ -1,7 +1,7 @@
 class Solution {
 public:
     int firstUniqChar(string s) {
-        int n = s.length(), ans = -1;
+        int n = s.length();
         vector<int> freq(26, 0);
         for (int i = 0; i < n; i++) {
             freq[s[i] - 'a']++;
@@ -11,6 +11,6 @@ public:
                 return i;
             }
         }
-        return ans;
+        return -1;
     }
 };
