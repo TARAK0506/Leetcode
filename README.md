@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/TARAK0506/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/TARAK0506/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/TARAK0506/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/TARAK0506/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/TARAK0506/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/TARAK0506/LEETCODE/tree/master/0402-remove-k-digits) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/TARAK0506/LEETCODE/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/TARAK0506/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -165,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/TARAK0506/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/TARAK0506/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/TARAK0506/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Interactive
@@ -311,4 +314,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/TARAK0506/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/TARAK0506/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
