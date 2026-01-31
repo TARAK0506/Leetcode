@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0275-h-index-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0275-h-index-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/TARAK0506/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/TARAK0506/LEETCODE/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/TARAK0506/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/TARAK0506/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/TARAK0506/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1200-minimum-absolute-difference](https://github.com/TARAK0506/LEETCODE/tree/master/1200-minimum-absolute-difference) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0275-h-index-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/TARAK0506/LEETCODE/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/TARAK0506/LEETCODE/tree/master/0367-valid-perfect-square) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/TARAK0506/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/TARAK0506/LEETCODE/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/TARAK0506/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/TARAK0506/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
