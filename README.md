@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2625-increment-submatrices-by-one](https://github.com/TARAK0506/LEETCODE/tree/master/2625-increment-submatrices-by-one) |
 | [2665-minimum-time-to-repair-cars](https://github.com/TARAK0506/LEETCODE/tree/master/2665-minimum-time-to-repair-cars) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/TARAK0506/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/TARAK0506/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/TARAK0506/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/TARAK0506/LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2179-most-beautiful-item-for-each-query](https://github.com/TARAK0506/LEETCODE/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/TARAK0506/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/TARAK0506/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/TARAK0506/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/TARAK0506/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 ## Two Pointers
 |  |
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/TARAK0506/LEETCODE/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/TARAK0506/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/TARAK0506/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3765-complete-prime-number](https://github.com/TARAK0506/LEETCODE/tree/master/3765-complete-prime-number) |
 ## Bit Manipulation
 |  |
