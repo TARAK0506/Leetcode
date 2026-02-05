@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3074-apple-redistribution-into-boxes](https://github.com/TARAK0506/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/TARAK0506/LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3379-transformed-array](https://github.com/TARAK0506/LEETCODE/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/TARAK0506/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TARAK0506/LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/TARAK0506/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/TARAK0506/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/TARAK0506/LEETCODE/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/TARAK0506/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3379-transformed-array](https://github.com/TARAK0506/LEETCODE/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/TARAK0506/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/TARAK0506/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Divide and Conquer
