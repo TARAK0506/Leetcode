@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/TARAK0506/LEETCODE/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/TARAK0506/LEETCODE/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/TARAK0506/LEETCODE/tree/master/0367-valid-perfect-square) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/TARAK0506/LEETCODE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/TARAK0506/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1390-four-divisors](https://github.com/TARAK0506/LEETCODE/tree/master/1390-four-divisors) |
 | [1585-the-kth-factor-of-n](https://github.com/TARAK0506/LEETCODE/tree/master/1585-the-kth-factor-of-n) |
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/TARAK0506/LEETCODE/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/TARAK0506/LEETCODE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/TARAK0506/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/TARAK0506/LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
