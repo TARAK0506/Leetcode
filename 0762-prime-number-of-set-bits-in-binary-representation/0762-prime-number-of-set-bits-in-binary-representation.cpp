@@ -1,22 +1,24 @@
 class Solution {
 public:
-    bool isPrime(int n) {
-        if (n <= 1)
-            return false;
-        if (n == 2 || n == 3)
-            return true;
-        if (n % 2 == 0 || n % 3 == 0)
-            return false;
-        for (int i = 5; i * i <= n; i += 6) {
-            if (n % i == 0 || n % (i + 2) == 0)
-                return false;
+    vector<bool> isSieve(int n) {
+        vector<bool> isPrime(n + 1, true);
+        if (n >= 0)
+            isPrime[0] = false;
+        if (n >= 1)
+            isPrime[1] = false;
+        for (int i = 2; i * i <= n; i++) {
+            if (isPrime[i]) {
+                for (int j = i * i; j <= n; j += i) {
+                    isPrime[j] = false;
+                }
+            }
         }
-        return true;
+        return isPrime;
     }
     int cntSetBits(int n) {
         int cnt = 0;
         while (n > 0) {
-            if (n & 1 == 1)
+            if ((n & 1) == 1)
                 cnt++;
             n >>= 1;
         }
@@ -24,9 +26,10 @@ public:
     }
     int countPrimeSetBits(int left, int right) {
         int cntPrimes = 0;
+        vector<bool> isPrime = isSieve(100);
         for (int i = left; i <= right; i++) {
             int setBits = cntSetBits(i);
-            cntPrimes += isPrime(setBits);
+            cntPrimes += isPrime[setBits];
         }
         return cntPrimes;
     }
