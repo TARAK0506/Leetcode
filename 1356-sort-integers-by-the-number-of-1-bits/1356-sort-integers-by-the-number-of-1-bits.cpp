@@ -1,34 +1,26 @@
-int count(int n){
-    int cnt=0;
-    while(n!=0){
-        if((n&1)==1){
-            cnt++;
-        }
-        n=n>>1;
-    }
-    return cnt;
-}
-bool cmp(pair<int,int>p1,pair<int,int>p2){
-    if(p1.second==p2.second){
-        return p1.first<p2.first;
-    }
-    if(p1.second<p2.second){
-        return true;
-    }
-    return false;
-}
 class Solution {
 public:
+    int countSetBits(int num) {
+        int cnt = 0;
+        while (num > 0) {
+            num &= (num - 1);
+            cnt++;
+        }
+        return cnt;
+    }
     vector<int> sortByBits(vector<int>& arr) {
-        vector<pair<int,int>>vec;
-        for(int i=0;i<arr.size();i++){
-            vec.emplace_back(make_pair(arr[i],count(arr[i])));
+        int n = arr.size();
+        unordered_map<int, int> mp;
+        for (int i = 0; i < n; i++) {
+            int count = countSetBits(arr[i]);
+            mp[arr[i]] = count;
         }
-        sort(vec.begin(),vec.end(),cmp);
-        vector<int>ans;
-        for(auto it:vec){
-            ans.emplace_back(it.first);
-        }
-        return ans;
+        auto freq = [&mp](const auto& a, const auto& b) {
+            if (mp[a] == mp[b])
+                return a < b;
+            return mp[a] < mp[b];
+        };
+        sort(arr.begin(), arr.end(), freq);
+        return arr;
     }
 };
