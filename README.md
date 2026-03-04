@@ -20,12 +20,15 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/TARAK0506/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/TARAK0506/LEETCODE/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Array
 |  |
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/TARAK0506/LEETCODE/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Matrix
 |  |
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/TARAK0506/LEETCODE/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 <!---LeetCode Topics End-->
