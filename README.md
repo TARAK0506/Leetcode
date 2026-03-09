@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/TARAK0506/LEETCODE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/TARAK0506/LEETCODE/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/TARAK0506/LEETCODE/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/TARAK0506/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Greedy
 |  |
 | ------- |
@@ -38,4 +39,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/TARAK0506/LEETCODE/tree/master/0050-powx-n) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/TARAK0506/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+## Sliding Window
+|  |
+| ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/TARAK0506/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 <!---LeetCode Topics End-->
