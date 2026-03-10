@@ -1,7 +1,7 @@
 class Solution {
 public:
     string ans = "";
-    void backtrack(int n, string curr, unordered_set<string> st) {
+    void backtrack(int n, string& curr, unordered_set<string> st) {
         if (!ans.empty())
             return;
         if (curr.length() == n) {
@@ -10,9 +10,12 @@ public:
             }
             return;
         }
-
-        backtrack(n, curr + "0", st);
-        backtrack(n, curr + "1", st);
+        curr.push_back('0');  
+        backtrack(n, curr, st);
+        curr.pop_back();  
+        curr.push_back('1');
+        backtrack(n, curr, st);
+        curr.pop_back();  
     }
     string findDifferentBinaryString(vector<string>& nums) {
         int n = nums.size();
