@@ -14,19 +14,16 @@ public:
         }
         return st.empty();
     }
-    void dfs(string& curr, int n) {
+    void dfs(string curr, int n) {
         if (curr.length() == 2 * n) {
             if (isValid(curr))
                 ans.emplace_back(curr);
-            return ;
+            return;
         }
-        curr.push_back('(');
-        dfs(curr, n);
-        curr.pop_back();
 
-        curr.push_back(')');
-        dfs(curr, n);
-        curr.pop_back();
+        dfs(curr + '(', n);
+
+        dfs(curr + ')', n);
     }
     vector<string> generateParenthesis(int n) {
         string curr = "";
