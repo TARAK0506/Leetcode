@@ -2,20 +2,19 @@ class Solution {
 public:
     vector<vector<int>> ans;
     void dfs(int idx, vector<int>& nums, vector<int>& ds) {
-        if (ds.size() >= 2) {
-            ans.emplace_back(ds);
-        }
-        if (idx >= nums.size())
-            return;
-        unordered_set<int> st;
-        for (int i = idx; i < nums.size(); i++) {
-            if (st.find(nums[i]) != st.end()) continue;
-            if (ds.empty() || ds.back() <= nums[i]) {
-                ds.emplace_back(nums[i]);
-                st.insert(nums[i]);
-                dfs(i + 1, nums, ds);
-                ds.pop_back();
+        if (idx == nums.size()) {
+            if (ds.size() >= 2) {
+                ans.push_back(ds);
             }
+            return;
+        }
+        if (ds.empty() || ds.back() <= nums[idx]) {
+            ds.push_back(nums[idx]);
+            dfs(idx + 1, nums, ds);
+            ds.pop_back();
+        }
+        if (ds.empty() || ds.back() != nums[idx]) {
+            dfs(idx + 1, nums, ds);
         }
     }
     vector<vector<int>> findSubsequences(vector<int>& nums) {
