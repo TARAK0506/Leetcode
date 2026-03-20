@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/TARAK0506/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TARAK0506/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/TARAK0506/LEETCODE/tree/master/1980-find-unique-binary-string) |
@@ -63,11 +64,13 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/TARAK0506/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/TARAK0506/LEETCODE/tree/master/1980-find-unique-binary-string) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/TARAK0506/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0491-non-decreasing-subsequences](https://github.com/TARAK0506/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/TARAK0506/LEETCODE/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TARAK0506/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/TARAK0506/LEETCODE/tree/master/1980-find-unique-binary-string) |
@@ -82,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/TARAK0506/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TARAK0506/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/TARAK0506/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Combinatorics
