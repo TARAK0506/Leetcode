@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/TARAK0506/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/TARAK0506/LEETCODE/tree/master/0049-group-anagrams) |
+| [1286-iterator-for-combination](https://github.com/TARAK0506/LEETCODE/tree/master/1286-iterator-for-combination) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/TARAK0506/LEETCODE/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/TARAK0506/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/TARAK0506/LEETCODE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/TARAK0506/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0491-non-decreasing-subsequences](https://github.com/TARAK0506/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
+| [1286-iterator-for-combination](https://github.com/TARAK0506/LEETCODE/tree/master/1286-iterator-for-combination) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/TARAK0506/LEETCODE/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TARAK0506/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/TARAK0506/LEETCODE/tree/master/1980-find-unique-binary-string) |
@@ -119,4 +121,12 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/TARAK0506/LEETCODE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/TARAK0506/LEETCODE/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/TARAK0506/LEETCODE/tree/master/0049-group-anagrams) |
+## Design
+|  |
+| ------- |
+| [1286-iterator-for-combination](https://github.com/TARAK0506/LEETCODE/tree/master/1286-iterator-for-combination) |
+## Iterator
+|  |
+| ------- |
+| [1286-iterator-for-combination](https://github.com/TARAK0506/LEETCODE/tree/master/1286-iterator-for-combination) |
 <!---LeetCode Topics End-->
