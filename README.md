@@ -46,12 +46,14 @@ Collection of LeetCode questions to ace the coding interview!
 | [1980-find-unique-binary-string](https://github.com/TARAK0506/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TARAK0506/LEETCODE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/TARAK0506/LEETCODE/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2906-construct-product-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/2906-construct-product-matrix) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/TARAK0506/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Matrix
 |  |
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/TARAK0506/LEETCODE/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2906-construct-product-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/2906-construct-product-matrix) |
 ## Math
 |  |
 | ------- |
@@ -129,4 +131,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1286-iterator-for-combination](https://github.com/TARAK0506/LEETCODE/tree/master/1286-iterator-for-combination) |
+## Prefix Sum
+|  |
+| ------- |
+| [2906-construct-product-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/2906-construct-product-matrix) |
 <!---LeetCode Topics End-->
