@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0491-non-decreasing-subsequences](https://github.com/TARAK0506/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TARAK0506/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/TARAK0506/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/TARAK0506/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TARAK0506/LEETCODE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/TARAK0506/LEETCODE/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/TARAK0506/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/TARAK0506/LEETCODE/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2906-construct-product-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/2906-construct-product-matrix) |
 ## Math
