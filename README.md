@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/TARAK0506/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/TARAK0506/LEETCODE/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/TARAK0506/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/TARAK0506/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Array
 |  |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/TARAK0506/LEETCODE/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/TARAK0506/LEETCODE/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2906-construct-product-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/TARAK0506/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/TARAK0506/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/TARAK0506/LEETCODE/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Matrix
@@ -60,12 +62,14 @@ Collection of LeetCode questions to ace the coding interview!
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/TARAK0506/LEETCODE/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/TARAK0506/LEETCODE/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2906-construct-product-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/TARAK0506/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/TARAK0506/LEETCODE/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/TARAK0506/LEETCODE/tree/master/0050-powx-n) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TARAK0506/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/TARAK0506/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/TARAK0506/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/TARAK0506/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
