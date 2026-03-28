@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/TARAK0506/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/TARAK0506/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/TARAK0506/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3669-balanced-k-factor-decomposition](https://github.com/TARAK0506/LEETCODE/tree/master/3669-balanced-k-factor-decomposition) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TARAK0506/LEETCODE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/TARAK0506/LEETCODE/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/TARAK0506/LEETCODE/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3669-balanced-k-factor-decomposition](https://github.com/TARAK0506/LEETCODE/tree/master/3669-balanced-k-factor-decomposition) |
 ## Binary Search
 |  |
 | ------- |
@@ -164,4 +166,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0079-word-search](https://github.com/TARAK0506/LEETCODE/tree/master/0079-word-search) |
+## Number Theory
+|  |
+| ------- |
+| [3669-balanced-k-factor-decomposition](https://github.com/TARAK0506/LEETCODE/tree/master/3669-balanced-k-factor-decomposition) |
 <!---LeetCode Topics End-->
