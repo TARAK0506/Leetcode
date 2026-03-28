@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/TARAK0506/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/TARAK0506/LEETCODE/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/TARAK0506/LEETCODE/tree/master/0079-word-search) |
 | [1286-iterator-for-combination](https://github.com/TARAK0506/LEETCODE/tree/master/1286-iterator-for-combination) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/TARAK0506/LEETCODE/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/TARAK0506/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/TARAK0506/LEETCODE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/TARAK0506/LEETCODE/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/TARAK0506/LEETCODE/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/TARAK0506/LEETCODE/tree/master/0079-word-search) |
 | [0491-non-decreasing-subsequences](https://github.com/TARAK0506/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TARAK0506/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/TARAK0506/LEETCODE/tree/master/0079-word-search) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/TARAK0506/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/TARAK0506/LEETCODE/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -95,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/TARAK0506/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/TARAK0506/LEETCODE/tree/master/0079-word-search) |
 | [0491-non-decreasing-subsequences](https://github.com/TARAK0506/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [1286-iterator-for-combination](https://github.com/TARAK0506/LEETCODE/tree/master/1286-iterator-for-combination) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/TARAK0506/LEETCODE/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -156,4 +160,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2906-construct-product-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/2906-construct-product-matrix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/TARAK0506/LEETCODE/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
