@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/TARAK0506/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/TARAK0506/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/TARAK0506/LEETCODE/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/TARAK0506/LEETCODE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/TARAK0506/LEETCODE/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
 |  |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0491-non-decreasing-subsequences](https://github.com/TARAK0506/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/TARAK0506/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/TARAK0506/LEETCODE/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/TARAK0506/LEETCODE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/TARAK0506/LEETCODE/tree/master/0049-group-anagrams) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/TARAK0506/LEETCODE/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/TARAK0506/LEETCODE/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/TARAK0506/LEETCODE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/TARAK0506/LEETCODE/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Design
 |  |
