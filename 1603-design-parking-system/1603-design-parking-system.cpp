@@ -9,29 +9,20 @@ public:
     }
 
     bool addCar(int carType) {
-        if (carType == 1) {
-            if (big != 0) {
-                big--;
-            } else {
-                return false;
-            }
+        if (carType == 1 && big > 0) {
+            big--;
+            return true;
         }
 
-        if (carType == 2) {
-            if (medium != 0) {
-                medium--;
-            } else {
-                return false;
-            }
+        if (carType == 2 && medium > 0) {
+            medium--;
+            return true;
         }
-        if (carType == 3) {
-            if (small != 0) {
-                small--;
-            } else {
-                return false;
-            }
+        if (carType == 3 && small > 0) {
+            small--;
+            return true;
         }
-        return true;
+        return false;
     }
 };
 
