@@ -11,15 +11,9 @@ public:
             }
         }
         for (auto& [key, val] : mp) {
-            if (key & 1 == 0) {
-                for (auto& itr : val) {
-                    ans.emplace_back(itr);
-                }
-            } else {
-                reverse(val.begin(), val.end());
-                for (auto& itr : val) {
-                    ans.emplace_back(itr);
-                }
+            reverse(val.begin(), val.end());
+            for (auto& itr : val) {
+                ans.emplace_back(itr);
             }
         }
         return ans;
