@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0498-diagonal-traverse](https://github.com/TARAK0506/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/TARAK0506/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1603-design-parking-system](https://github.com/TARAK0506/LEETCODE/tree/master/1603-design-parking-system) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/TARAK0506/LEETCODE/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/TARAK0506/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/TARAK0506/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1286-iterator-for-combination](https://github.com/TARAK0506/LEETCODE/tree/master/1286-iterator-for-combination) |
+| [1603-design-parking-system](https://github.com/TARAK0506/LEETCODE/tree/master/1603-design-parking-system) |
 ## Iterator
 |  |
 | ------- |
@@ -180,4 +182,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3669-balanced-k-factor-decomposition](https://github.com/TARAK0506/LEETCODE/tree/master/3669-balanced-k-factor-decomposition) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/TARAK0506/LEETCODE/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
