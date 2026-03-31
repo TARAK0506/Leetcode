@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/TARAK0506/LEETCODE/tree/master/0079-word-search) |
 | [0491-non-decreasing-subsequences](https://github.com/TARAK0506/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [0498-diagonal-traverse](https://github.com/TARAK0506/LEETCODE/tree/master/0498-diagonal-traverse) |
+| [1424-diagonal-traverse-ii](https://github.com/TARAK0506/LEETCODE/tree/master/1424-diagonal-traverse-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TARAK0506/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/TARAK0506/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1424-diagonal-traverse-ii](https://github.com/TARAK0506/LEETCODE/tree/master/1424-diagonal-traverse-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/TARAK0506/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/TARAK0506/LEETCODE/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Bit Manipulation
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/TARAK0506/LEETCODE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/TARAK0506/LEETCODE/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/TARAK0506/LEETCODE/tree/master/0049-group-anagrams) |
+| [1424-diagonal-traverse-ii](https://github.com/TARAK0506/LEETCODE/tree/master/1424-diagonal-traverse-ii) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/TARAK0506/LEETCODE/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/TARAK0506/LEETCODE/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/TARAK0506/LEETCODE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
