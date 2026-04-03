@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2906-construct-product-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/TARAK0506/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/TARAK0506/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3356-zero-array-transformation-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3356-zero-array-transformation-ii) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/TARAK0506/LEETCODE/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Matrix
 |  |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/TARAK0506/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3356-zero-array-transformation-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3356-zero-array-transformation-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/TARAK0506/LEETCODE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/TARAK0506/LEETCODE/tree/master/0016-3sum-closest) |
+| [3356-zero-array-transformation-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3356-zero-array-transformation-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -178,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2906-construct-product-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/2906-construct-product-matrix) |
+| [3356-zero-array-transformation-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3356-zero-array-transformation-ii) |
 ## Depth-First Search
 |  |
 | ------- |
