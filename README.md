@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/TARAK0506/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/TARAK0506/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3669-balanced-k-factor-decomposition](https://github.com/TARAK0506/LEETCODE/tree/master/3669-balanced-k-factor-decomposition) |
+| [3783-mirror-distance-of-an-integer](https://github.com/TARAK0506/LEETCODE/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
