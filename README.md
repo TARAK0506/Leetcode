@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/TARAK0506/LEETCODE/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/TARAK0506/LEETCODE/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/TARAK0506/LEETCODE/tree/master/0079-word-search) |
+| [0300-longest-increasing-subsequence](https://github.com/TARAK0506/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/TARAK0506/LEETCODE/tree/master/0354-russian-doll-envelopes) |
 | [0491-non-decreasing-subsequences](https://github.com/TARAK0506/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [0498-diagonal-traverse](https://github.com/TARAK0506/LEETCODE/tree/master/0498-diagonal-traverse) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/TARAK0506/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0300-longest-increasing-subsequence](https://github.com/TARAK0506/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/TARAK0506/LEETCODE/tree/master/0354-russian-doll-envelopes) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/TARAK0506/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/TARAK0506/LEETCODE/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/TARAK0506/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/TARAK0506/LEETCODE/tree/master/0354-russian-doll-envelopes) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/TARAK0506/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/TARAK0506/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
