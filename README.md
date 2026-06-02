@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/TARAK0506/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/TARAK0506/LEETCODE/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TARAK0506/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3446-sort-matrix-by-diagonals](https://github.com/TARAK0506/LEETCODE/tree/master/3446-sort-matrix-by-diagonals) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/TARAK0506/LEETCODE/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TARAK0506/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/TARAK0506/LEETCODE/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Matrix
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/TARAK0506/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3356-zero-array-transformation-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3356-zero-array-transformation-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TARAK0506/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -182,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/TARAK0506/LEETCODE/tree/master/0016-3sum-closest) |
 | [3356-zero-array-transformation-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3356-zero-array-transformation-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TARAK0506/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -197,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3446-sort-matrix-by-diagonals](https://github.com/TARAK0506/LEETCODE/tree/master/3446-sort-matrix-by-diagonals) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/TARAK0506/LEETCODE/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TARAK0506/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Design
 |  |
 | ------- |
