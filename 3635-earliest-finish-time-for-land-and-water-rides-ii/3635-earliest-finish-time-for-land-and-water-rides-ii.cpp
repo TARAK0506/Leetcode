@@ -9,12 +9,10 @@ public:
         }
         int waterFinishTime = INT_MAX;
         for (int j = 0; j < m; j++) {
-            ans = min(ans, max(landFinishTime, waterStartTime[j]) +
-                               waterDuration[j]);
-        }
-        for(int j = 0; j < m; j++){
             waterFinishTime =
                 min(waterFinishTime, (waterStartTime[j] + waterDuration[j]));
+            ans = min(ans, max(landFinishTime, waterStartTime[j]) +
+                               waterDuration[j]);
         }
         for (int i = 0; i < n; i++) {
             ans = min(ans,
