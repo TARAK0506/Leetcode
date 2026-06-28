@@ -4,7 +4,7 @@ public:
     int maximumElementAfterDecrementingAndRearranging(vector<int>& arr) {
         all(arr);
         int n = arr.size();
-        arr.front() = 1;
+        arr[0] = 1;
         for (int i = 1; i < n; i++) {
             arr[i] = abs(arr[i] - arr[i - 1] <= 1) ? arr[i] : arr[i - 1] + 1;
         }
