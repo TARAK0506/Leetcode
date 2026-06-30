@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/TARAK0506/LEETCODE/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/TARAK0506/LEETCODE/tree/master/0079-word-search) |
 | [1286-iterator-for-combination](https://github.com/TARAK0506/LEETCODE/tree/master/1286-iterator-for-combination) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/TARAK0506/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/TARAK0506/LEETCODE/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/TARAK0506/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/TARAK0506/LEETCODE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/TARAK0506/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/TARAK0506/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Hash Table
 |  |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/TARAK0506/LEETCODE/tree/master/0049-group-anagrams) |
 | [0491-non-decreasing-subsequences](https://github.com/TARAK0506/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [0525-contiguous-array](https://github.com/TARAK0506/LEETCODE/tree/master/0525-contiguous-array) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/TARAK0506/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1980-find-unique-binary-string](https://github.com/TARAK0506/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/TARAK0506/LEETCODE/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/TARAK0506/LEETCODE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
