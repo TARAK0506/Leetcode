@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/TARAK0506/LEETCODE/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/TARAK0506/LEETCODE/tree/master/0079-word-search) |
 | [0300-longest-increasing-subsequence](https://github.com/TARAK0506/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/TARAK0506/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0354-russian-doll-envelopes](https://github.com/TARAK0506/LEETCODE/tree/master/0354-russian-doll-envelopes) |
 | [0491-non-decreasing-subsequences](https://github.com/TARAK0506/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [0498-diagonal-traverse](https://github.com/TARAK0506/LEETCODE/tree/master/0498-diagonal-traverse) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/TARAK0506/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/TARAK0506/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0354-russian-doll-envelopes](https://github.com/TARAK0506/LEETCODE/tree/master/0354-russian-doll-envelopes) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/TARAK0506/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/TARAK0506/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -250,10 +252,12 @@ Collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/TARAK0506/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/TARAK0506/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -267,4 +271,16 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/0912-sort-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/TARAK0506/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/TARAK0506/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/TARAK0506/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
