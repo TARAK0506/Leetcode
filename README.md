@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0498-diagonal-traverse](https://github.com/TARAK0506/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/TARAK0506/LEETCODE/tree/master/0525-contiguous-array) |
 | [0861-score-after-flipping-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/0861-score-after-flipping-matrix) |
+| [0912-sort-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/0912-sort-an-array) |
 | [1329-sort-the-matrix-diagonally](https://github.com/TARAK0506/LEETCODE/tree/master/1329-sort-the-matrix-diagonally) |
 | [1424-diagonal-traverse-ii](https://github.com/TARAK0506/LEETCODE/tree/master/1424-diagonal-traverse-ii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/TARAK0506/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/0912-sort-an-array) |
 | [1424-diagonal-traverse-ii](https://github.com/TARAK0506/LEETCODE/tree/master/1424-diagonal-traverse-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/TARAK0506/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/TARAK0506/LEETCODE/tree/master/3462-maximum-sum-with-at-most-k-elements) |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/TARAK0506/LEETCODE/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/TARAK0506/LEETCODE/tree/master/0049-group-anagrams) |
 | [0354-russian-doll-envelopes](https://github.com/TARAK0506/LEETCODE/tree/master/0354-russian-doll-envelopes) |
+| [0912-sort-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/0912-sort-an-array) |
 | [1329-sort-the-matrix-diagonally](https://github.com/TARAK0506/LEETCODE/tree/master/1329-sort-the-matrix-diagonally) |
 | [1424-diagonal-traverse-ii](https://github.com/TARAK0506/LEETCODE/tree/master/1424-diagonal-traverse-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/TARAK0506/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -244,4 +247,24 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0113-path-sum-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
