@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/TARAK0506/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/TARAK0506/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TARAK0506/LEETCODE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2080-range-frequency-queries](https://github.com/TARAK0506/LEETCODE/tree/master/2080-range-frequency-queries) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/TARAK0506/LEETCODE/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/TARAK0506/LEETCODE/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/TARAK0506/LEETCODE/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0525-contiguous-array](https://github.com/TARAK0506/LEETCODE/tree/master/0525-contiguous-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TARAK0506/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1980-find-unique-binary-string](https://github.com/TARAK0506/LEETCODE/tree/master/1980-find-unique-binary-string) |
+| [2080-range-frequency-queries](https://github.com/TARAK0506/LEETCODE/tree/master/2080-range-frequency-queries) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/TARAK0506/LEETCODE/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/TARAK0506/LEETCODE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/TARAK0506/LEETCODE/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0354-russian-doll-envelopes](https://github.com/TARAK0506/LEETCODE/tree/master/0354-russian-doll-envelopes) |
 | [0493-reverse-pairs](https://github.com/TARAK0506/LEETCODE/tree/master/0493-reverse-pairs) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/TARAK0506/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2080-range-frequency-queries](https://github.com/TARAK0506/LEETCODE/tree/master/2080-range-frequency-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/TARAK0506/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3356-zero-array-transformation-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3356-zero-array-transformation-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TARAK0506/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -220,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1286-iterator-for-combination](https://github.com/TARAK0506/LEETCODE/tree/master/1286-iterator-for-combination) |
 | [1603-design-parking-system](https://github.com/TARAK0506/LEETCODE/tree/master/1603-design-parking-system) |
+| [2080-range-frequency-queries](https://github.com/TARAK0506/LEETCODE/tree/master/2080-range-frequency-queries) |
 ## Iterator
 |  |
 | ------- |
@@ -285,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/TARAK0506/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/TARAK0506/LEETCODE/tree/master/0493-reverse-pairs) |
+| [2080-range-frequency-queries](https://github.com/TARAK0506/LEETCODE/tree/master/2080-range-frequency-queries) |
 ## Ordered Set
 |  |
 | ------- |
