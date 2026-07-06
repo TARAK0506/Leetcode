@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0525-contiguous-array](https://github.com/TARAK0506/LEETCODE/tree/master/0525-contiguous-array) |
 | [0861-score-after-flipping-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/0861-score-after-flipping-matrix) |
 | [0912-sort-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/0912-sort-an-array) |
+| [1288-remove-covered-intervals](https://github.com/TARAK0506/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1329-sort-the-matrix-diagonally](https://github.com/TARAK0506/LEETCODE/tree/master/1329-sort-the-matrix-diagonally) |
 | [1424-diagonal-traverse-ii](https://github.com/TARAK0506/LEETCODE/tree/master/1424-diagonal-traverse-ii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/TARAK0506/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/TARAK0506/LEETCODE/tree/master/0049-group-anagrams) |
 | [0354-russian-doll-envelopes](https://github.com/TARAK0506/LEETCODE/tree/master/0354-russian-doll-envelopes) |
 | [0912-sort-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/0912-sort-an-array) |
+| [1288-remove-covered-intervals](https://github.com/TARAK0506/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1329-sort-the-matrix-diagonally](https://github.com/TARAK0506/LEETCODE/tree/master/1329-sort-the-matrix-diagonally) |
 | [1424-diagonal-traverse-ii](https://github.com/TARAK0506/LEETCODE/tree/master/1424-diagonal-traverse-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/TARAK0506/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
