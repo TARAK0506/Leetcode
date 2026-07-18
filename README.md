@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1848-minimum-distance-to-the-target-element](https://github.com/TARAK0506/LEETCODE/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TARAK0506/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/TARAK0506/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/TARAK0506/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/TARAK0506/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TARAK0506/LEETCODE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2080-range-frequency-queries](https://github.com/TARAK0506/LEETCODE/tree/master/2080-range-frequency-queries) |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0050-powx-n](https://github.com/TARAK0506/LEETCODE/tree/master/0050-powx-n) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TARAK0506/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/TARAK0506/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/TARAK0506/LEETCODE/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/TARAK0506/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/TARAK0506/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -245,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/TARAK0506/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3669-balanced-k-factor-decomposition](https://github.com/TARAK0506/LEETCODE/tree/master/3669-balanced-k-factor-decomposition) |
 ## Counting
 |  |
