@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/TARAK0506/LEETCODE/tree/master/0498-diagonal-traverse) |
+| [1260-shift-2d-grid](https://github.com/TARAK0506/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/TARAK0506/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1603-design-parking-system](https://github.com/TARAK0506/LEETCODE/tree/master/1603-design-parking-system) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/TARAK0506/LEETCODE/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0525-contiguous-array](https://github.com/TARAK0506/LEETCODE/tree/master/0525-contiguous-array) |
 | [0861-score-after-flipping-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/0861-score-after-flipping-matrix) |
 | [0912-sort-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/0912-sort-an-array) |
+| [1260-shift-2d-grid](https://github.com/TARAK0506/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/TARAK0506/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1329-sort-the-matrix-diagonally](https://github.com/TARAK0506/LEETCODE/tree/master/1329-sort-the-matrix-diagonally) |
 | [1424-diagonal-traverse-ii](https://github.com/TARAK0506/LEETCODE/tree/master/1424-diagonal-traverse-ii) |
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/TARAK0506/LEETCODE/tree/master/0079-word-search) |
 | [0498-diagonal-traverse](https://github.com/TARAK0506/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0861-score-after-flipping-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/0861-score-after-flipping-matrix) |
+| [1260-shift-2d-grid](https://github.com/TARAK0506/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1329-sort-the-matrix-diagonally](https://github.com/TARAK0506/LEETCODE/tree/master/1329-sort-the-matrix-diagonally) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/TARAK0506/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
