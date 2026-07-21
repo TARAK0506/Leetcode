@@ -18,9 +18,7 @@ public:
         if (cnt < 0 || prev == '0')
             values.emplace_back(cnt);
         int prevv = 1;
-        if (cntOnes == 0 || cntOnes == n)
-            return cntOnes;
-        if (values.size() == 1)
+        if (cntOnes == 0 || cntOnes == n || values.size() == 1)
             return cntOnes;
         for (int i = 1; i < values.size(); i++) {
             maxx = max(maxx, abs(values[i - 1] + values[i]));
