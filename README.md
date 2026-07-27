@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1288-remove-covered-intervals](https://github.com/TARAK0506/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1329-sort-the-matrix-diagonally](https://github.com/TARAK0506/LEETCODE/tree/master/1329-sort-the-matrix-diagonally) |
 | [1424-diagonal-traverse-ii](https://github.com/TARAK0506/LEETCODE/tree/master/1424-diagonal-traverse-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/TARAK0506/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/TARAK0506/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/TARAK0506/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0912-sort-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/0912-sort-an-array) |
 | [1424-diagonal-traverse-ii](https://github.com/TARAK0506/LEETCODE/tree/master/1424-diagonal-traverse-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/TARAK0506/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/TARAK0506/LEETCODE/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Bit Manipulation
@@ -224,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1288-remove-covered-intervals](https://github.com/TARAK0506/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1329-sort-the-matrix-diagonally](https://github.com/TARAK0506/LEETCODE/tree/master/1329-sort-the-matrix-diagonally) |
 | [1424-diagonal-traverse-ii](https://github.com/TARAK0506/LEETCODE/tree/master/1424-diagonal-traverse-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TARAK0506/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/TARAK0506/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/TARAK0506/LEETCODE/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/TARAK0506/LEETCODE/tree/master/2597-the-number-of-beautiful-subsets) |
