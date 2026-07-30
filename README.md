@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1980-find-unique-binary-string](https://github.com/TARAK0506/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TARAK0506/LEETCODE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2080-range-frequency-queries](https://github.com/TARAK0506/LEETCODE/tree/master/2080-range-frequency-queries) |
+| [2432-the-employee-that-worked-on-the-longest-task](https://github.com/TARAK0506/LEETCODE/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/TARAK0506/LEETCODE/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/TARAK0506/LEETCODE/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/TARAK0506/LEETCODE/tree/master/2597-the-number-of-beautiful-subsets) |
