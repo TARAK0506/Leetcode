@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0079-word-search](https://github.com/TARAK0506/LEETCODE/tree/master/0079-word-search) |
+| [0101-symmetric-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0113-path-sum-ii) |
 ## Number Theory
 |  |
@@ -271,10 +272,12 @@ Collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0113-path-sum-ii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0113-path-sum-ii) |
 ## Divide and Conquer
 |  |
@@ -326,4 +329,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/TARAK0506/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/TARAK0506/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
