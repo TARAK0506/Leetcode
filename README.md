@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0079-word-search](https://github.com/TARAK0506/LEETCODE/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0113-path-sum-ii) |
 ## Number Theory
 |  |
@@ -275,11 +276,13 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0113-path-sum-ii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0113-path-sum-ii) |
 ## Divide and Conquer
 |  |
