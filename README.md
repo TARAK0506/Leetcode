@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/TARAK0506/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/TARAK0506/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/TARAK0506/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/TARAK0506/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3669-balanced-k-factor-decomposition](https://github.com/TARAK0506/LEETCODE/tree/master/3669-balanced-k-factor-decomposition) |
 | [3783-mirror-distance-of-an-integer](https://github.com/TARAK0506/LEETCODE/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1291-sequential-digits](https://github.com/TARAK0506/LEETCODE/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TARAK0506/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TARAK0506/LEETCODE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/TARAK0506/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/TARAK0506/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Two Pointers
 |  |
