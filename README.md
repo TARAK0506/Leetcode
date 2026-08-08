@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0113-path-sum-ii) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Number Theory
 |  |
 | ------- |
@@ -278,12 +279,14 @@ Collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0113-path-sum-ii) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0113-path-sum-ii) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
