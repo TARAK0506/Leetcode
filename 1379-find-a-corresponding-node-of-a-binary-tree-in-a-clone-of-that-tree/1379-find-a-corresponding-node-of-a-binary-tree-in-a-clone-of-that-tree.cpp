@@ -13,7 +13,7 @@ public:
     TreeNode* ans = nullptr;
     TreeNode* dfs(TreeNode* cloned, TreeNode* target) {
         if (!cloned)
-            return ans;
+            return nullptr;
         if (cloned->val == target->val)
             ans = cloned;
         dfs(cloned->left, target);
