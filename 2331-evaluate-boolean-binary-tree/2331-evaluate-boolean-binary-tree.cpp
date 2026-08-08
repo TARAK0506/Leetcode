@@ -13,10 +13,10 @@
 class Solution {
 
 public:
-    bool isLeaf(TreeNode* node) { return node && !node->left && !node->right; }
+    bool isLeaf(TreeNode* node) { 
+        return node && !node->left && !node->right; 
+    }
     int dfs(TreeNode* root) {
-        if (!root)
-            return -1;
         if (isLeaf(root))
             return root->val;
         int l = dfs(root->left);
@@ -24,5 +24,7 @@ public:
         int value = root->val;
         return value == 2 ? l || r : l && r;
     }
-    bool evaluateTree(TreeNode* root) { return dfs(root); }
+    bool evaluateTree(TreeNode* root) { 
+        return dfs(root); 
+    }
 };
