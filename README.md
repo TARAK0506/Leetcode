@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0113-path-sum-ii) |
+| [0662-maximum-width-of-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/TARAK0506/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0113-path-sum-ii) |
+| [0662-maximum-width-of-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/TARAK0506/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -293,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0113-path-sum-ii) |
+| [0662-maximum-width-of-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/TARAK0506/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -352,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0101-symmetric-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0993-cousins-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 <!---LeetCode Topics End-->
