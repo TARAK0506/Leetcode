@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0113-path-sum-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0993-cousins-in-binary-tree) |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0113-path-sum-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0993-cousins-in-binary-tree) |
@@ -303,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0113-path-sum-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0993-cousins-in-binary-tree) |
@@ -370,9 +373,15 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Lifting
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
