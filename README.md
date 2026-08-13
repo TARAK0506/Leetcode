@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/TARAK0506/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TARAK0506/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TARAK0506/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3187-peaks-in-array](https://github.com/TARAK0506/LEETCODE/tree/master/3187-peaks-in-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/TARAK0506/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3356-zero-array-transformation-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3356-zero-array-transformation-ii) |
 | [3446-sort-matrix-by-diagonals](https://github.com/TARAK0506/LEETCODE/tree/master/3446-sort-matrix-by-diagonals) |
@@ -342,12 +343,14 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/TARAK0506/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/TARAK0506/LEETCODE/tree/master/0493-reverse-pairs) |
+| [3187-peaks-in-array](https://github.com/TARAK0506/LEETCODE/tree/master/3187-peaks-in-array) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/TARAK0506/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/TARAK0506/LEETCODE/tree/master/0493-reverse-pairs) |
 | [2080-range-frequency-queries](https://github.com/TARAK0506/LEETCODE/tree/master/2080-range-frequency-queries) |
+| [3187-peaks-in-array](https://github.com/TARAK0506/LEETCODE/tree/master/3187-peaks-in-array) |
 ## Ordered Set
 |  |
 | ------- |
