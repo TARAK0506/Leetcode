@@ -33,9 +33,12 @@ class Solution {
             return low;
         }
         int mid = low + (high - low) / 2;
-        if (seg[2 * node + 1].val >= quantity)
+        if (!seg[node].used && seg[2 * node + 1].val >= quantity)
             return query(2 * node + 1, low, mid, quantity);
-        return query(2 * node + 2, mid + 1, high, quantity);
+        else if (!seg[node].used && seg[2 * node + 1].val < quantity) {
+            return query(2 * node + 2, mid + 1, high, quantity);
+        }
+        return -1;
     }
 
     void update(int node, int low, int high, int index) {
