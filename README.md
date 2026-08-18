@@ -18,6 +18,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/TARAK0506/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3479-fruits-into-baskets-iii](https://github.com/TARAK0506/LEETCODE/tree/master/3479-fruits-into-baskets-iii) |
 ## Binary Tree
 |  |
@@ -27,10 +28,12 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 ## Array
 |  |
 | ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/TARAK0506/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3479-fruits-into-baskets-iii](https://github.com/TARAK0506/LEETCODE/tree/master/3479-fruits-into-baskets-iii) |
 ## Segment Tree
 |  |
 | ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/TARAK0506/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3479-fruits-into-baskets-iii](https://github.com/TARAK0506/LEETCODE/tree/master/3479-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
@@ -48,4 +51,20 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
+## Stack
+|  |
+| ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/TARAK0506/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/TARAK0506/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/TARAK0506/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/TARAK0506/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
