@@ -6,6 +6,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TARAK0506/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -13,6 +14,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TARAK0506/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -28,6 +30,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TARAK0506/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -62,6 +65,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/TARAK0506/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Binary Indexed Tree
 |  |
