@@ -14,15 +14,24 @@ class Solution {
     vector<int> nodes;
 
 public:
-    void inOrder(TreeNode* root) {
-        if (!root)
-            return;
-        inOrder(root->left);
-        nodes.push_back(root->val);
-        inOrder(root->right);
-    }
     vector<int> inorderTraversal(TreeNode* root) {
-        inOrder(root);
+        if (!root)
+            return {};
+        TreeNode* curr = root;
+        stack<TreeNode*> st;
+        while (true) {
+            if (curr) {
+                st.push(curr);
+                curr = curr->left;
+            } else {
+                if (st.empty())
+                    break;
+                auto node = st.top();
+                st.pop();
+                nodes.emplace_back(node->val);
+                curr = node->right;
+            }
+        }
         return nodes;
     }
 };
