@@ -8,12 +8,14 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TARAK0506/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TARAK0506/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -28,6 +30,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TARAK0506/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Array
 |  |
