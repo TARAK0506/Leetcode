@@ -38,5 +38,7 @@ public:
             return false;
         return dfs(root->left, head->next) || dfs(root->right, head->next);
     }
-    bool isSubPath(ListNode* head, TreeNode* root) { return check(root, head); }
+    bool isSubPath(ListNode* head, TreeNode* root) {
+         return check(root, head); 
+    }
 };
