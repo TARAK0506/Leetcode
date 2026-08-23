@@ -12,16 +12,18 @@
  */
 class Solution {
 public:
-    bool dfs(TreeNode* root, int curr, int targetsum) {
+    bool isLeaf(TreeNode* node) { 
+        return node && !node->left && !node->right; 
+    }
+    bool dfs(TreeNode* root, int targetSum) {
         if (!root)
             return false;
-        curr = curr + root->val;
-        if (root->left == nullptr && root->right == nullptr)
-            return curr == targetsum;
-        return dfs(root->left, curr, targetsum) ||
-               dfs(root->right, curr, targetsum);
+        targetSum -= root->val;
+        if (isLeaf(root) && targetSum == 0)
+            return true;
+        return dfs(root->left, targetSum) || dfs(root->right, targetSum);
     }
     bool hasPathSum(TreeNode* root, int targetSum) {
-        return dfs(root, 0, targetSum);
+        return dfs(root, targetSum);
     }
 };
