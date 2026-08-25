@@ -25,6 +25,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0998-maximum-binary-tree-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0998-maximum-binary-tree-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/TARAK0506/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1367-linked-list-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TARAK0506/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -43,6 +44,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0606-construct-string-from-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0606-construct-string-from-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/TARAK0506/LEETCODE/tree/master/0872-leaf-similar-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/TARAK0506/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1367-linked-list-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TARAK0506/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -57,6 +59,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0450-delete-node-in-a-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/TARAK0506/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3479-fruits-into-baskets-iii](https://github.com/TARAK0506/LEETCODE/tree/master/3479-fruits-into-baskets-iii) |
@@ -82,6 +85,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0998-maximum-binary-tree-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0998-maximum-binary-tree-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/TARAK0506/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1367-linked-list-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TARAK0506/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
