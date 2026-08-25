@@ -21,6 +21,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0606-construct-string-from-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0606-construct-string-from-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/TARAK0506/LEETCODE/tree/master/0872-leaf-similar-trees) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0998-maximum-binary-tree-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/TARAK0506/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -77,6 +78,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0606-construct-string-from-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0606-construct-string-from-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/TARAK0506/LEETCODE/tree/master/0872-leaf-similar-trees) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0998-maximum-binary-tree-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/TARAK0506/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -112,6 +114,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0104-maximum-depth-of-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/TARAK0506/LEETCODE/tree/master/0112-path-sum) |
 | [0449-serialize-and-deserialize-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Design
 |  |
 | ------- |
