@@ -26,6 +26,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/TARAK0506/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/TARAK0506/LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1367-linked-list-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TARAK0506/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -46,6 +47,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0872-leaf-similar-trees](https://github.com/TARAK0506/LEETCODE/tree/master/0872-leaf-similar-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/TARAK0506/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/TARAK0506/LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1367-linked-list-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TARAK0506/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -88,6 +90,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/TARAK0506/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/TARAK0506/LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1367-linked-list-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TARAK0506/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -122,6 +125,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0112-path-sum](https://github.com/TARAK0506/LEETCODE/tree/master/0112-path-sum) |
 | [0449-serialize-and-deserialize-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/TARAK0506/LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Design
 |  |
 | ------- |
