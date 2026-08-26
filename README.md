@@ -14,6 +14,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/TARAK0506/LEETCODE/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/TARAK0506/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/TARAK0506/LEETCODE/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
@@ -40,6 +41,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0104-maximum-depth-of-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/TARAK0506/LEETCODE/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/TARAK0506/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/TARAK0506/LEETCODE/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
@@ -78,6 +80,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/TARAK0506/LEETCODE/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/TARAK0506/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/TARAK0506/LEETCODE/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
@@ -159,4 +162,12 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1367-linked-list-in-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/TARAK0506/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/TARAK0506/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
