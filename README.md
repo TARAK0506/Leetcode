@@ -24,6 +24,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0701-insert-into-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/TARAK0506/LEETCODE/tree/master/0872-leaf-similar-trees) |
+| [0919-complete-binary-tree-inserter](https://github.com/TARAK0506/LEETCODE/tree/master/0919-complete-binary-tree-inserter) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0998-maximum-binary-tree-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -96,6 +97,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0701-insert-into-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/TARAK0506/LEETCODE/tree/master/0872-leaf-similar-trees) |
+| [0919-complete-binary-tree-inserter](https://github.com/TARAK0506/LEETCODE/tree/master/0919-complete-binary-tree-inserter) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0998-maximum-binary-tree-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -139,6 +141,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0449-serialize-and-deserialize-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
 | [0623-add-one-row-to-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0623-add-one-row-to-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0919-complete-binary-tree-inserter](https://github.com/TARAK0506/LEETCODE/tree/master/0919-complete-binary-tree-inserter) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/TARAK0506/LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/TARAK0506/LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -147,6 +150,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
 | [0706-design-hashmap](https://github.com/TARAK0506/LEETCODE/tree/master/0706-design-hashmap) |
+| [0919-complete-binary-tree-inserter](https://github.com/TARAK0506/LEETCODE/tree/master/0919-complete-binary-tree-inserter) |
 ## Stack
 |  |
 | ------- |
