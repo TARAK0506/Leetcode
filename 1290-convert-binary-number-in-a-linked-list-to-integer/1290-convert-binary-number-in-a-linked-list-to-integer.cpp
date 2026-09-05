@@ -11,18 +11,13 @@
 class Solution {
 public:
     int getDecimalValue(ListNode* head) {
-        ListNode* curr=head;
-        vector<int>ans;
-        while(curr!=NULL){
-            ans.emplace_back(curr->val);
-            curr=curr->next;
+        int decimal = 0;
+        ListNode* curr = head;
+        while (curr) {
+            int bit = curr->val;
+            decimal = decimal * 2 + (bit);
+            curr = curr->next;
         }
-        reverse(ans.begin(),ans.end());
-        int i=0,sol=0;
-        for(auto it:ans){
-            sol+=powl(2,i)*it;
-            i++;
-        }
-        return sol;
+        return decimal;
     }
 };
