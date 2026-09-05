@@ -15,20 +15,20 @@ class Solution {
     TreeNode* prev;
 
 public:
-    void inOrder(TreeNode* root, TreeNode*& prev, int& minDiff) {
+    void inOrder(TreeNode* root, int& minDiff) {
         if (!root)
             return;
-        inOrder(root->left, prev, minDiff);
+        inOrder(root->left, minDiff);
         if (prev) {
             minDiff = min(minDiff, abs(root->val - prev->val));
         }
         prev = root;
-        inOrder(root->right, prev, minDiff);
+        inOrder(root->right, minDiff);
     }
     int getMinimumDifference(TreeNode* root) {
         prev = nullptr;
         minDiff = INT_MAX;
-        inOrder(root, prev, minDiff);
+        inOrder(root, minDiff);
         return minDiff;
     }
 };
