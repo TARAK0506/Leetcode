@@ -14,30 +14,22 @@ class Solution {
     vector<long long> ans;
 
 public:
-    long long findHeight(TreeNode* root) {
+    pair<int, bool> isPerfectSubTree(TreeNode* root) {
         if (!root)
-            return 0;
-        long long leftHeight = findHeight(root->left);
-        long long rightHeight = findHeight(root->right);
-        return 1 + max(leftHeight, rightHeight);
-    }
-    bool isPerfectSubTree(TreeNode* root) {
-        if (!root)
-            return true;
+            return {0, true};
+        auto leftCheck = isPerfectSubTree(root->left);
+        auto rightCheck = isPerfectSubTree(root->right);
+        int height = 1 + max(leftCheck.first, rightCheck.first);
 
-        long long left = findHeight(root->left);
-        long long right = findHeight(root->right);
+        bool isPerfect = (leftCheck.first == rightCheck.first &&
+                          leftCheck.second && rightCheck.second);
 
-        bool leftSubTree = isPerfectSubTree(root->left);
-        bool rightSubTree = isPerfectSubTree(root->right);
-
-        if (left == right && leftSubTree && rightSubTree) {
-            long long height = findHeight(root);
-            long long nodes = (1 << height) - 1;
-            ans.push_back(nodes);
-            return true;
+        if (isPerfect) {
+            int nodes = (1 << height) - 1;
+            ans.emplace_back(nodes);
+            return {height, isPerfect};
         }
-        return false;
+        return {height, isPerfect};
     }
     int kthLargestPerfectSubtree(TreeNode* root, int k) {
         isPerfectSubTree(root);
