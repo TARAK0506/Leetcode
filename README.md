@@ -203,6 +203,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0203-remove-linked-list-elements](https://github.com/TARAK0506/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/TARAK0506/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0706-design-hashmap](https://github.com/TARAK0506/LEETCODE/tree/master/0706-design-hashmap) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TARAK0506/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1367-linked-list-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1367-linked-list-in-binary-tree) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/TARAK0506/LEETCODE/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Dynamic Programming
@@ -231,6 +232,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 ## Math
 |  |
 | ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TARAK0506/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TARAK0506/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
