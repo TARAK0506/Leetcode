@@ -31,6 +31,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0998-maximum-binary-tree-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0998-maximum-binary-tree-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/TARAK0506/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/TARAK0506/LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -58,6 +59,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0872-leaf-similar-trees](https://github.com/TARAK0506/LEETCODE/tree/master/0872-leaf-similar-trees) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/TARAK0506/LEETCODE/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/TARAK0506/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/TARAK0506/LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -109,6 +111,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0998-maximum-binary-tree-ii](https://github.com/TARAK0506/LEETCODE/tree/master/0998-maximum-binary-tree-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/TARAK0506/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/TARAK0506/LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -141,6 +144,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0449-serialize-and-deserialize-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0606-construct-string-from-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/TARAK0506/LEETCODE/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
