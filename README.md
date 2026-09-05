@@ -199,6 +199,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0021-merge-two-sorted-lists](https://github.com/TARAK0506/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/TARAK0506/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0160-intersection-of-two-linked-lists](https://github.com/TARAK0506/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0706-design-hashmap](https://github.com/TARAK0506/LEETCODE/tree/master/0706-design-hashmap) |
 | [1367-linked-list-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1367-linked-list-in-binary-tree) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/TARAK0506/LEETCODE/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -213,6 +214,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/TARAK0506/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0706-design-hashmap](https://github.com/TARAK0506/LEETCODE/tree/master/0706-design-hashmap) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/TARAK0506/LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -240,4 +242,8 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/TARAK0506/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/TARAK0506/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
