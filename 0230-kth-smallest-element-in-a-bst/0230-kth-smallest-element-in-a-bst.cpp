@@ -11,22 +11,34 @@
  * };
  */
 class Solution {
-    int ans = 0, cnt = 0;
-    void dfs(TreeNode* root, int k) {
-        if (!root)
-            return;
-        dfs(root->left, k);
-        cnt++;
-        if (cnt == k) {
-            ans = root->val;
-            return;
-        }
-        dfs(root->right, k);
-    }
-
 public:
     int kthSmallest(TreeNode* root, int k) {
-        dfs(root, k);
+        int ans = -1;
+        TreeNode* curr = root;
+        while (curr) {
+            if (!curr->left) {
+                k--;
+                if (k == 0)
+                    ans = curr->val;
+                curr = curr->right;
+            } else {
+                TreeNode* predecessor = curr->left;
+                while (predecessor->right && predecessor->right != curr) {
+                    predecessor = predecessor->right;
+                }
+
+                if (!predecessor->right) {
+                    predecessor->right = curr;
+                    curr = curr->left;
+                } else {
+                    predecessor->right = nullptr;
+                    k--;
+                    if (k == 0)
+                        ans = curr->val;
+                    curr = curr->right;
+                }
+            }
+        }
         return ans;
     }
 };
