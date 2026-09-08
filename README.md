@@ -218,6 +218,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0203-remove-linked-list-elements](https://github.com/TARAK0506/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/TARAK0506/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0706-design-hashmap](https://github.com/TARAK0506/LEETCODE/tree/master/0706-design-hashmap) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/TARAK0506/LEETCODE/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TARAK0506/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1367-linked-list-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1367-linked-list-in-binary-tree) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/TARAK0506/LEETCODE/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -237,6 +238,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0690-employee-importance](https://github.com/TARAK0506/LEETCODE/tree/master/0690-employee-importance) |
 | [0706-design-hashmap](https://github.com/TARAK0506/LEETCODE/tree/master/0706-design-hashmap) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/TARAK0506/LEETCODE/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/TARAK0506/LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Hash Function
 |  |
