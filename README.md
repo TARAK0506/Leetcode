@@ -23,6 +23,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0530-minimum-absolute-difference-in-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0623-add-one-row-to-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0669-trim-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/TARAK0506/LEETCODE/tree/master/0872-leaf-similar-trees) |
@@ -58,6 +59,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0530-minimum-absolute-difference-in-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0623-add-one-row-to-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0669-trim-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/TARAK0506/LEETCODE/tree/master/0872-leaf-similar-trees) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/TARAK0506/LEETCODE/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -82,6 +84,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0449-serialize-and-deserialize-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0669-trim-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -108,6 +111,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0530-minimum-absolute-difference-in-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0623-add-one-row-to-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0669-trim-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/TARAK0506/LEETCODE/tree/master/0872-leaf-similar-trees) |
