@@ -19,14 +19,6 @@ public:
     }
     int getImportance(vector<Employee*> employees, int id) {
         unordered_map<int, Employee*> mp;
-        // for (auto& employee : employees) {
-        //     cout << employee->id << " " << employee->importance << " ";
-        //     for (int sub : employee->subordinates) {
-        //         cout << sub << " ";
-        //     }
-        //     cout << "\n";
-        // }
-
         for (auto& employee : employees) {
             mp[employee->id] = employee;
         }
