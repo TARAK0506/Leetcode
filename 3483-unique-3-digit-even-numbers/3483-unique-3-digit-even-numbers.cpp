@@ -5,7 +5,7 @@ class Solution {
     int noOfDigits;
     set<int> s;
     vector<bool> used;
-    void backtrack(int idx, int noOfDigits, int num, vector<int>& digits) {
+    void backtrack(int noOfDigits, int num, vector<int>& digits) {
         if (noOfDigits == 3) {
             if ((num & 1) == 0) {
                 s.insert(num);
@@ -19,7 +19,7 @@ class Solution {
             if (num == 0 && digits[i] == 0)
                 continue;
             used[i] = true;
-            backtrack(i + 1, noOfDigits + 1, num * 10 + digits[i], digits);
+            backtrack(noOfDigits + 1, num * 10 + digits[i], digits);
             used[i] = false;
         }
     }
@@ -30,7 +30,7 @@ public:
         noOfDigits = 0;
         sort(all(digits));
         used.assign(n, false);
-        backtrack(0, noOfDigits, num, digits);
+        backtrack(noOfDigits, num, digits);
         return s.size();
     }
 };
