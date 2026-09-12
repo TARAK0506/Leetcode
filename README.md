@@ -39,6 +39,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/TARAK0506/LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1367-linked-list-in-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TARAK0506/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/TARAK0506/LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -71,6 +72,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/TARAK0506/LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1367-linked-list-in-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TARAK0506/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/TARAK0506/LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -90,6 +92,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0701-insert-into-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/TARAK0506/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3479-fruits-into-baskets-iii](https://github.com/TARAK0506/LEETCODE/tree/master/3479-fruits-into-baskets-iii) |
@@ -128,6 +131,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/TARAK0506/LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1367-linked-list-in-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TARAK0506/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/TARAK0506/LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -227,10 +231,12 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/TARAK0506/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/TARAK0506/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
