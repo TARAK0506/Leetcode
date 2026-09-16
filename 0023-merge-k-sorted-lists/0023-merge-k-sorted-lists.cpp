@@ -17,8 +17,15 @@ public:
             return list2;
         if (!list2)
             return list1;
-        ListNode* dummyNode = new ListNode(-1);
-        ListNode* curr = dummyNode;
+        ListNode* head;
+        if (list1->val <= list2->val) {
+            head = list1;
+            list1 = list1->next;
+        } else {
+            head = list2;
+            list2 = list2->next;
+        }
+        ListNode* curr = head;
         ListNode *l1 = list1, *l2 = list2;
         while (l1 && l2) {
             if (l1->val <= l2->val) {
@@ -36,9 +43,7 @@ public:
         if (l2) {
             curr->next = l2;
         }
-        ListNode* res = dummyNode->next;
-        delete dummyNode;
-        return res;
+        return head;
     }
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         ListNode* head = nullptr;
