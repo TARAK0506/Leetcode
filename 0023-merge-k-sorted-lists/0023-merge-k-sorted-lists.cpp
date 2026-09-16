@@ -10,20 +10,41 @@
  */
 class Solution {
 public:
-    ListNode* mergeKLists(vector<ListNode*>& lists) {
-        priority_queue<int>pq;
-        for(int i=0;i<lists.size();i++){
-            ListNode*temp=lists[i];
-            while(temp!=NULL){
-                pq.push(temp->val);
-                temp=temp->next;
+    ListNode* merge2Lists(ListNode* list1, ListNode* list2) {
+        if (!list1 && !list2)
+            return nullptr;
+        if (!list1)
+            return list2;
+        if (!list2)
+            return list1;
+        ListNode* dummyNode = new ListNode(-1);
+        ListNode* curr = dummyNode;
+        ListNode *l1 = list1, *l2 = list2;
+        while (l1 && l2) {
+            if (l1->val <= l2->val) {
+                curr->next = l1;
+                l1 = l1->next;
+            } else {
+                curr->next = l2;
+                l2 = l2->next;
             }
+            curr = curr->next;
         }
-        ListNode*ans=NULL;
-        while(!pq.empty()){
-            ans=new ListNode(pq.top(),ans);
-            pq.pop();
+        if (l1) {
+            curr->next = l1;
         }
-        return ans;
+        if (l2) {
+            curr->next = l2;
+        }
+        ListNode* res = dummyNode->next;
+        delete dummyNode;
+        return res;
+    }
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+        ListNode* head = nullptr;
+        for (int i = 0; i < lists.size(); i++) {
+            head = merge2Lists(head, lists[i]);
+        }
+        return head;
     }
 };
