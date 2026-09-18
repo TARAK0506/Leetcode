@@ -28,6 +28,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0701-insert-into-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/TARAK0506/LEETCODE/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/TARAK0506/LEETCODE/tree/master/0919-complete-binary-tree-inserter) |
 | [0938-range-sum-of-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -66,6 +67,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0690-employee-importance](https://github.com/TARAK0506/LEETCODE/tree/master/0690-employee-importance) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/TARAK0506/LEETCODE/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/TARAK0506/LEETCODE/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/TARAK0506/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -92,6 +94,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0530-minimum-absolute-difference-in-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0669-trim-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -123,6 +126,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0701-insert-into-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/TARAK0506/LEETCODE/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/TARAK0506/LEETCODE/tree/master/0919-complete-binary-tree-inserter) |
 | [0938-range-sum-of-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -194,6 +198,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0897-increasing-order-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/TARAK0506/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Binary Indexed Tree
