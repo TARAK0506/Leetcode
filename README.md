@@ -151,6 +151,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0690-employee-importance](https://github.com/TARAK0506/LEETCODE/tree/master/0690-employee-importance) |
 | [0706-design-hashmap](https://github.com/TARAK0506/LEETCODE/tree/master/0706-design-hashmap) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2438-range-product-queries-of-powers](https://github.com/TARAK0506/LEETCODE/tree/master/2438-range-product-queries-of-powers) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/TARAK0506/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3479-fruits-into-baskets-iii](https://github.com/TARAK0506/LEETCODE/tree/master/3479-fruits-into-baskets-iii) |
@@ -282,6 +283,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 ## Prefix Sum
 |  |
 | ------- |
+| [2438-range-product-queries-of-powers](https://github.com/TARAK0506/LEETCODE/tree/master/2438-range-product-queries-of-powers) |
 | [3904-smallest-stable-index-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 ## Recursion
 |  |
@@ -312,4 +314,8 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 |  |
 | ------- |
 | [3881-direction-assignments-with-exactly-k-visible-people](https://github.com/TARAK0506/LEETCODE/tree/master/3881-direction-assignments-with-exactly-k-visible-people) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2438-range-product-queries-of-powers](https://github.com/TARAK0506/LEETCODE/tree/master/2438-range-product-queries-of-powers) |
 <!---LeetCode Topics End-->
