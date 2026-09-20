@@ -174,6 +174,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0606-construct-string-from-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0606-construct-string-from-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/TARAK0506/LEETCODE/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [3498-reverse-degree-of-a-string](https://github.com/TARAK0506/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -318,4 +319,8 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 |  |
 | ------- |
 | [2438-range-product-queries-of-powers](https://github.com/TARAK0506/LEETCODE/tree/master/2438-range-product-queries-of-powers) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/TARAK0506/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
