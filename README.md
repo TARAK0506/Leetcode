@@ -151,6 +151,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0690-employee-importance](https://github.com/TARAK0506/LEETCODE/tree/master/0690-employee-importance) |
 | [0706-design-hashmap](https://github.com/TARAK0506/LEETCODE/tree/master/0706-design-hashmap) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2420-find-all-good-indices](https://github.com/TARAK0506/LEETCODE/tree/master/2420-find-all-good-indices) |
 | [2438-range-product-queries-of-powers](https://github.com/TARAK0506/LEETCODE/tree/master/2438-range-product-queries-of-powers) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/TARAK0506/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -246,6 +247,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/TARAK0506/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2420-find-all-good-indices](https://github.com/TARAK0506/LEETCODE/tree/master/2420-find-all-good-indices) |
 ## DP on Trees
 |  |
 | ------- |
@@ -284,6 +286,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 ## Prefix Sum
 |  |
 | ------- |
+| [2420-find-all-good-indices](https://github.com/TARAK0506/LEETCODE/tree/master/2420-find-all-good-indices) |
 | [2438-range-product-queries-of-powers](https://github.com/TARAK0506/LEETCODE/tree/master/2438-range-product-queries-of-powers) |
 | [3904-smallest-stable-index-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 ## Recursion
