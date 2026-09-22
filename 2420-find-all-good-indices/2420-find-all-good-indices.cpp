@@ -18,10 +18,10 @@ public:
         }
         for (int i = k; i < n - k; i++) {
             bool increase = false, decrease = false;
-            if (i >= 0 && prefix[i - 1] >= k) {
+            if (prefix[i - 1] >= k) {
                 increase = true;
             }
-            if (i + k <= n && suffix[i + 1] >= k) {
+            if (suffix[i + 1] >= k) {
                 decrease = true;
             }
             if (increase && decrease) {
