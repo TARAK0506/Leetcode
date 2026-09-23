@@ -103,6 +103,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/TARAK0506/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3479-fruits-into-baskets-iii](https://github.com/TARAK0506/LEETCODE/tree/master/3479-fruits-into-baskets-iii) |
+| [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/TARAK0506/LEETCODE/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 ## Binary Tree
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [3483-unique-3-digit-even-numbers](https://github.com/TARAK0506/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TARAK0506/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
+| [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/TARAK0506/LEETCODE/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 ## Segment Tree
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [2420-find-all-good-indices](https://github.com/TARAK0506/LEETCODE/tree/master/2420-find-all-good-indices) |
 | [2438-range-product-queries-of-powers](https://github.com/TARAK0506/LEETCODE/tree/master/2438-range-product-queries-of-powers) |
 | [3904-smallest-stable-index-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
+| [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/TARAK0506/LEETCODE/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 ## Recursion
 |  |
 | ------- |
@@ -334,4 +337,8 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TARAK0506/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Greedy
+|  |
+| ------- |
+| [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/TARAK0506/LEETCODE/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 <!---LeetCode Topics End-->
