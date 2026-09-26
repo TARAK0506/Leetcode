@@ -283,6 +283,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | ------- |
 | [0002-add-two-numbers](https://github.com/TARAK0506/LEETCODE/tree/master/0002-add-two-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TARAK0506/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/TARAK0506/LEETCODE/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TARAK0506/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3881-direction-assignments-with-exactly-k-visible-people](https://github.com/TARAK0506/LEETCODE/tree/master/3881-direction-assignments-with-exactly-k-visible-people) |
@@ -335,6 +336,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 ## Simulation
 |  |
 | ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/TARAK0506/LEETCODE/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3498-reverse-degree-of-a-string](https://github.com/TARAK0506/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
@@ -344,4 +346,24 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 |  |
 | ------- |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/TARAK0506/LEETCODE/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
+## Number Theory
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/TARAK0506/LEETCODE/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Prime Factorization
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/TARAK0506/LEETCODE/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Primality Test
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/TARAK0506/LEETCODE/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Sieve Theory
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/TARAK0506/LEETCODE/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/TARAK0506/LEETCODE/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 <!---LeetCode Topics End-->
