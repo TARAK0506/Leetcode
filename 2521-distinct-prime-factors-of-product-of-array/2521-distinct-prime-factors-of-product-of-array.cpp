@@ -22,9 +22,6 @@ public:
         for (int i = 0; i < nums.size(); i++) {
             primeFactors(nums[i]);
         }
-        for (auto& [key, val] : mp) {
-            cout << key << " " << val <<"\n";
-        }
         return mp.size();
     }
 };
