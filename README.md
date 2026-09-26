@@ -157,6 +157,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [2420-find-all-good-indices](https://github.com/TARAK0506/LEETCODE/tree/master/2420-find-all-good-indices) |
 | [2438-range-product-queries-of-powers](https://github.com/TARAK0506/LEETCODE/tree/master/2438-range-product-queries-of-powers) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/TARAK0506/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/TARAK0506/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3479-fruits-into-baskets-iii](https://github.com/TARAK0506/LEETCODE/tree/master/3479-fruits-into-baskets-iii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TARAK0506/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
@@ -269,6 +270,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/TARAK0506/LEETCODE/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TARAK0506/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/TARAK0506/LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/TARAK0506/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TARAK0506/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Function
 |  |
@@ -284,6 +286,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0002-add-two-numbers](https://github.com/TARAK0506/LEETCODE/tree/master/0002-add-two-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TARAK0506/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/TARAK0506/LEETCODE/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/TARAK0506/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TARAK0506/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3881-direction-assignments-with-exactly-k-visible-people](https://github.com/TARAK0506/LEETCODE/tree/master/3881-direction-assignments-with-exactly-k-visible-people) |
@@ -350,20 +353,33 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 |  |
 | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/TARAK0506/LEETCODE/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/TARAK0506/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Prime Factorization
 |  |
 | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/TARAK0506/LEETCODE/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/TARAK0506/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Primality Test
 |  |
 | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/TARAK0506/LEETCODE/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/TARAK0506/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Sieve Theory
 |  |
 | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/TARAK0506/LEETCODE/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/TARAK0506/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/TARAK0506/LEETCODE/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/TARAK0506/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/TARAK0506/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/TARAK0506/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
