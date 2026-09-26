@@ -9,7 +9,7 @@ public:
         m = s.length(), q = queries.size();
         answer.resize(q, 0);
         vector<ll> power(m + 1, 1);
-        vector<ll> count(m + 1, 0);
+        vector<ll> nonZeroscnt(m + 1, 0);
         vector<ll> digits(m, 0);
         vector<ll> prefixNum(m + 1, 0);
         vector<ll> prefixSum(m + 1, 0);
@@ -21,7 +21,7 @@ public:
                 prefixNum[i] =
                     (digit > 0 ? (prefixNum[i - 1] * 10 + digit) % MOD
                                : prefixNum[i - 1]);
-                count[i] = (digit > 0 ? count[i - 1] + 1 : count[i - 1]);
+                nonZeroscnt[i] = (digit > 0 ? nonZeroscnt[i - 1] + 1 : nonZeroscnt[i - 1]);
                 power[i] = (1LL * power[i - 1] * 10) % MOD;
             }
         };
@@ -29,7 +29,7 @@ public:
         for (int i = 0; i < queries.size(); i++) {
             int l = queries[i][0], r = queries[i][1];
             ll rangeSum = (prefixSum[r + 1] - prefixSum[l]) % MOD;
-            ll nonZeros = count[r + 1] - count[l];
+            ll nonZeros = nonZeroscnt[r + 1] - nonZeroscnt[l];
             ll rangeNum =
                 (prefixNum[r + 1] - prefixNum[l] * power[nonZeros]) % MOD;
             if (rangeNum < 0)
