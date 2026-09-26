@@ -180,6 +180,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0988-smallest-string-starting-from-leaf](https://github.com/TARAK0506/LEETCODE/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [3498-reverse-degree-of-a-string](https://github.com/TARAK0506/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -282,6 +283,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | ------- |
 | [0002-add-two-numbers](https://github.com/TARAK0506/LEETCODE/tree/master/0002-add-two-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TARAK0506/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TARAK0506/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3881-direction-assignments-with-exactly-k-visible-people](https://github.com/TARAK0506/LEETCODE/tree/master/3881-direction-assignments-with-exactly-k-visible-people) |
 ## Sorting
@@ -294,6 +296,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TARAK0506/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2420-find-all-good-indices](https://github.com/TARAK0506/LEETCODE/tree/master/2420-find-all-good-indices) |
 | [2438-range-product-queries-of-powers](https://github.com/TARAK0506/LEETCODE/tree/master/2438-range-product-queries-of-powers) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/TARAK0506/LEETCODE/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 ## Recursion
