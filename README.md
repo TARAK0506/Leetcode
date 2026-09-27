@@ -149,6 +149,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/TARAK0506/LEETCODE/tree/master/0001-two-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0690-employee-importance](https://github.com/TARAK0506/LEETCODE/tree/master/0690-employee-importance) |
 | [0706-design-hashmap](https://github.com/TARAK0506/LEETCODE/tree/master/0706-design-hashmap) |
@@ -262,6 +263,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/TARAK0506/LEETCODE/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/TARAK0506/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TARAK0506/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0690-employee-importance](https://github.com/TARAK0506/LEETCODE/tree/master/0690-employee-importance) |
