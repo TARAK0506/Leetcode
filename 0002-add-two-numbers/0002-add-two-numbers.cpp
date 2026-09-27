@@ -8,56 +8,45 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-// ListNode* reverse(ListNode* original){
-//     ListNode* prev=NULL,*temp=NULL;
-//     ListNode* curr=original;
-//     while(curr!=NULL){
-//         temp=curr->next;
-//         curr->next=prev;
-//         prev=curr;
-//         curr=temp;
-//     }
-//     return prev;
-// }
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* newnode = new ListNode();
-        ListNode* temp = newnode;
-        int carry=0,sum=0;
-        while(l1!=NULL && l2!=NULL){
-            int sum = carry + l1->val + l2->val;
-            carry = (sum>=10)?1:0;
-            sum=sum%10;
-            ListNode* curr = new ListNode(sum);
-            temp->next=curr;
-            temp=temp->next;
+        ListNode* dummy = new ListNode(-1);
+        ListNode* curr = dummy;
+        int sum = 0, carry = 0;
+        while (l1 && l2) {
+            sum = l1->val + l2->val + carry;
+            carry = (sum > 9 ? 1 : 0);
+            sum = sum % 10;
+            ListNode* newNode = new ListNode(sum);
+            curr->next = newNode;
+            curr = newNode;
             l1 = l1->next;
             l2 = l2->next;
         }
-        while(l1!=NULL){
-          int sum=l1->val+carry;
-          carry = (sum>=10)?1:0;
-          sum=sum%10;
-          ListNode* curr=new ListNode(sum);
-          temp->next=curr;
-          temp=temp->next;
-          l1=l1->next;
+        while (l1) {
+            sum = l1->val + carry;
+            carry = (sum > 9 ? 1 : 0);
+            sum = sum % 10;
+            ListNode* newNode = new ListNode(sum);
+            curr->next = newNode;
+            curr = newNode;
+            l1 = l1->next;
         }
-        while(l2!=NULL){
-          int sum=l2->val+carry;
-          carry = (sum>=10)?1:0;
-          sum=sum%10;
-          ListNode* curr=new ListNode(sum);
-          temp->next=curr;
-          temp=temp->next;
-          l2=l2->next;
+        while (l2) {
+            sum = l2->val + carry;
+            carry = (sum > 9 ? 1 : 0);
+            sum = sum % 10;
+            ListNode* newNode = new ListNode(sum);
+            curr->next = newNode;
+            curr = newNode;
+            l2 = l2->next;
         }
-        if(carry!=0){
-          ListNode* curr = new ListNode(carry);
-          temp->next=curr;
-          temp=temp->next;
+        if (carry != 0) {
+            ListNode* newNode = new ListNode(carry);
+            curr->next = newNode;
+            curr = newNode;
         }
-        return newnode->next;
+        return dummy->next;
     }
 };
