@@ -181,6 +181,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0032-longest-valid-parentheses](https://github.com/TARAK0506/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0449-serialize-and-deserialize-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0606-construct-string-from-binary-tree) |
+| [0856-score-of-parentheses](https://github.com/TARAK0506/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/TARAK0506/LEETCODE/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [3498-reverse-degree-of-a-string](https://github.com/TARAK0506/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
@@ -211,6 +212,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/TARAK0506/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0856-score-of-parentheses](https://github.com/TARAK0506/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/TARAK0506/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -395,4 +397,5 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | ------- |
 | [0022-generate-parentheses](https://github.com/TARAK0506/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/TARAK0506/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/TARAK0506/LEETCODE/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
