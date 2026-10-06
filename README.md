@@ -159,6 +159,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [2438-range-product-queries-of-powers](https://github.com/TARAK0506/LEETCODE/tree/master/2438-range-product-queries-of-powers) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/TARAK0506/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2708-maximum-strength-of-a-group](https://github.com/TARAK0506/LEETCODE/tree/master/2708-maximum-strength-of-a-group) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/TARAK0506/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3479-fruits-into-baskets-iii](https://github.com/TARAK0506/LEETCODE/tree/master/3479-fruits-into-baskets-iii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TARAK0506/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
@@ -262,6 +263,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0124-binary-tree-maximum-path-sum](https://github.com/TARAK0506/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2420-find-all-good-indices](https://github.com/TARAK0506/LEETCODE/tree/master/2420-find-all-good-indices) |
+| [2708-maximum-strength-of-a-group](https://github.com/TARAK0506/LEETCODE/tree/master/2708-maximum-strength-of-a-group) |
 ## DP on Trees
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | ------- |
 | [0022-generate-parentheses](https://github.com/TARAK0506/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/TARAK0506/LEETCODE/tree/master/0988-smallest-string-starting-from-leaf) |
+| [2708-maximum-strength-of-a-group](https://github.com/TARAK0506/LEETCODE/tree/master/2708-maximum-strength-of-a-group) |
 ## Math
 |  |
 | ------- |
@@ -303,6 +306,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 ## Sorting
 |  |
 | ------- |
+| [2708-maximum-strength-of-a-group](https://github.com/TARAK0506/LEETCODE/tree/master/2708-maximum-strength-of-a-group) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Prefix Sum
 |  |
@@ -329,6 +333,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 ## Enumeration
 |  |
 | ------- |
+| [2708-maximum-strength-of-a-group](https://github.com/TARAK0506/LEETCODE/tree/master/2708-maximum-strength-of-a-group) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TARAK0506/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 ## Merge Sort
 |  |
@@ -346,6 +351,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 |  |
 | ------- |
 | [2438-range-product-queries-of-powers](https://github.com/TARAK0506/LEETCODE/tree/master/2438-range-product-queries-of-powers) |
+| [2708-maximum-strength-of-a-group](https://github.com/TARAK0506/LEETCODE/tree/master/2708-maximum-strength-of-a-group) |
 ## Simulation
 |  |
 | ------- |
@@ -358,6 +364,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 ## Greedy
 |  |
 | ------- |
+| [2708-maximum-strength-of-a-group](https://github.com/TARAK0506/LEETCODE/tree/master/2708-maximum-strength-of-a-group) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/TARAK0506/LEETCODE/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 ## Number Theory
 |  |
