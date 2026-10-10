@@ -155,6 +155,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0706-design-hashmap](https://github.com/TARAK0506/LEETCODE/tree/master/0706-design-hashmap) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TARAK0506/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/TARAK0506/LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2420-find-all-good-indices](https://github.com/TARAK0506/LEETCODE/tree/master/2420-find-all-good-indices) |
 | [2438-range-product-queries-of-powers](https://github.com/TARAK0506/LEETCODE/tree/master/2438-range-product-queries-of-powers) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -298,6 +299,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | ------- |
 | [0002-add-two-numbers](https://github.com/TARAK0506/LEETCODE/tree/master/0002-add-two-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TARAK0506/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/TARAK0506/LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/TARAK0506/LEETCODE/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/TARAK0506/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -312,6 +314,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TARAK0506/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/TARAK0506/LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2420-find-all-good-indices](https://github.com/TARAK0506/LEETCODE/tree/master/2420-find-all-good-indices) |
 | [2438-range-product-queries-of-powers](https://github.com/TARAK0506/LEETCODE/tree/master/2438-range-product-queries-of-powers) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
