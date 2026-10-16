@@ -160,6 +160,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [2438-range-product-queries-of-powers](https://github.com/TARAK0506/LEETCODE/tree/master/2438-range-product-queries-of-powers) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/TARAK0506/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2615-sum-of-distances](https://github.com/TARAK0506/LEETCODE/tree/master/2615-sum-of-distances) |
 | [2708-maximum-strength-of-a-group](https://github.com/TARAK0506/LEETCODE/tree/master/2708-maximum-strength-of-a-group) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/TARAK0506/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3479-fruits-into-baskets-iii](https://github.com/TARAK0506/LEETCODE/tree/master/3479-fruits-into-baskets-iii) |
@@ -283,6 +284,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TARAK0506/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/TARAK0506/LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/TARAK0506/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2615-sum-of-distances](https://github.com/TARAK0506/LEETCODE/tree/master/2615-sum-of-distances) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TARAK0506/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Function
 |  |
@@ -317,6 +319,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/TARAK0506/LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2420-find-all-good-indices](https://github.com/TARAK0506/LEETCODE/tree/master/2420-find-all-good-indices) |
 | [2438-range-product-queries-of-powers](https://github.com/TARAK0506/LEETCODE/tree/master/2438-range-product-queries-of-powers) |
+| [2615-sum-of-distances](https://github.com/TARAK0506/LEETCODE/tree/master/2615-sum-of-distances) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/TARAK0506/LEETCODE/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
