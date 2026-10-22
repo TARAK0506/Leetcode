@@ -191,6 +191,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [3498-reverse-degree-of-a-string](https://github.com/TARAK0506/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/TARAK0506/LEETCODE/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
