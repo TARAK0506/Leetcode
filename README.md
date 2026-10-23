@@ -157,6 +157,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [1314-matrix-block-sum](https://github.com/TARAK0506/LEETCODE/tree/master/1314-matrix-block-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TARAK0506/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/TARAK0506/LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TARAK0506/LEETCODE/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2420-find-all-good-indices](https://github.com/TARAK0506/LEETCODE/tree/master/2420-find-all-good-indices) |
 | [2438-range-product-queries-of-powers](https://github.com/TARAK0506/LEETCODE/tree/master/2438-range-product-queries-of-powers) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -189,6 +190,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0856-score-of-parentheses](https://github.com/TARAK0506/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/TARAK0506/LEETCODE/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TARAK0506/LEETCODE/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3498-reverse-degree-of-a-string](https://github.com/TARAK0506/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/TARAK0506/LEETCODE/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -323,6 +325,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [1314-matrix-block-sum](https://github.com/TARAK0506/LEETCODE/tree/master/1314-matrix-block-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TARAK0506/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/TARAK0506/LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TARAK0506/LEETCODE/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2420-find-all-good-indices](https://github.com/TARAK0506/LEETCODE/tree/master/2420-find-all-good-indices) |
 | [2438-range-product-queries-of-powers](https://github.com/TARAK0506/LEETCODE/tree/master/2438-range-product-queries-of-powers) |
 | [2615-sum-of-distances](https://github.com/TARAK0506/LEETCODE/tree/master/2615-sum-of-distances) |
