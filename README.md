@@ -151,6 +151,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | ------- |
 | [0001-two-sum](https://github.com/TARAK0506/LEETCODE/tree/master/0001-two-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0134-gas-station](https://github.com/TARAK0506/LEETCODE/tree/master/0134-gas-station) |
 | [0690-employee-importance](https://github.com/TARAK0506/LEETCODE/tree/master/0690-employee-importance) |
 | [0706-design-hashmap](https://github.com/TARAK0506/LEETCODE/tree/master/0706-design-hashmap) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -382,6 +383,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/TARAK0506/LEETCODE/tree/master/0134-gas-station) |
 | [2708-maximum-strength-of-a-group](https://github.com/TARAK0506/LEETCODE/tree/master/2708-maximum-strength-of-a-group) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/TARAK0506/LEETCODE/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 ## Number Theory
