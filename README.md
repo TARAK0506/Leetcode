@@ -154,6 +154,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0134-gas-station](https://github.com/TARAK0506/LEETCODE/tree/master/0134-gas-station) |
 | [0690-employee-importance](https://github.com/TARAK0506/LEETCODE/tree/master/0690-employee-importance) |
 | [0706-design-hashmap](https://github.com/TARAK0506/LEETCODE/tree/master/0706-design-hashmap) |
+| [0724-find-pivot-index](https://github.com/TARAK0506/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1314-matrix-block-sum](https://github.com/TARAK0506/LEETCODE/tree/master/1314-matrix-block-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TARAK0506/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -325,6 +326,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/TARAK0506/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1314-matrix-block-sum](https://github.com/TARAK0506/LEETCODE/tree/master/1314-matrix-block-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TARAK0506/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/TARAK0506/LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
