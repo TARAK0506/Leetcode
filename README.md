@@ -167,6 +167,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [2615-sum-of-distances](https://github.com/TARAK0506/LEETCODE/tree/master/2615-sum-of-distances) |
 | [2708-maximum-strength-of-a-group](https://github.com/TARAK0506/LEETCODE/tree/master/2708-maximum-strength-of-a-group) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/TARAK0506/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/TARAK0506/LEETCODE/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/TARAK0506/LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3479-fruits-into-baskets-iii](https://github.com/TARAK0506/LEETCODE/tree/master/3479-fruits-into-baskets-iii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TARAK0506/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
@@ -314,6 +315,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/TARAK0506/LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/TARAK0506/LEETCODE/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/TARAK0506/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/TARAK0506/LEETCODE/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TARAK0506/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3881-direction-assignments-with-exactly-k-visible-people](https://github.com/TARAK0506/LEETCODE/tree/master/3881-direction-assignments-with-exactly-k-visible-people) |
@@ -334,6 +336,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [2420-find-all-good-indices](https://github.com/TARAK0506/LEETCODE/tree/master/2420-find-all-good-indices) |
 | [2438-range-product-queries-of-powers](https://github.com/TARAK0506/LEETCODE/tree/master/2438-range-product-queries-of-powers) |
 | [2615-sum-of-distances](https://github.com/TARAK0506/LEETCODE/tree/master/2615-sum-of-distances) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/TARAK0506/LEETCODE/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/TARAK0506/LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
@@ -367,6 +370,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 ## Combinatorics
 |  |
 | ------- |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/TARAK0506/LEETCODE/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3881-direction-assignments-with-exactly-k-visible-people](https://github.com/TARAK0506/LEETCODE/tree/master/3881-direction-assignments-with-exactly-k-visible-people) |
 ## Bit Manipulation
 |  |
@@ -377,6 +381,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 |  |
 | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/TARAK0506/LEETCODE/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/TARAK0506/LEETCODE/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3498-reverse-degree-of-a-string](https://github.com/TARAK0506/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
