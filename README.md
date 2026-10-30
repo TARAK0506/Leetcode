@@ -174,6 +174,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/TARAK0506/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TARAK0506/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/TARAK0506/LEETCODE/tree/master/3919-minimum-cost-to-move-between-indices) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/TARAK0506/LEETCODE/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 ## Segment Tree
 |  |
@@ -340,6 +341,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/TARAK0506/LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/TARAK0506/LEETCODE/tree/master/3919-minimum-cost-to-move-between-indices) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/TARAK0506/LEETCODE/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 ## Recursion
 |  |
@@ -392,6 +394,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | ------- |
 | [0134-gas-station](https://github.com/TARAK0506/LEETCODE/tree/master/0134-gas-station) |
 | [2708-maximum-strength-of-a-group](https://github.com/TARAK0506/LEETCODE/tree/master/2708-maximum-strength-of-a-group) |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/TARAK0506/LEETCODE/tree/master/3919-minimum-cost-to-move-between-indices) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/TARAK0506/LEETCODE/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 ## Number Theory
 |  |
