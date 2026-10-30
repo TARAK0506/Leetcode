@@ -13,15 +13,11 @@ public:
         }
         vector<int> prefixCost(n + 1, 0);
         for (int i = 1; i < n; i++) {
-            prefixCost[i] =
-                prefixCost[i - 1] +
-                (closest[i - 1] == i ? 1 : abs(nums[i] - nums[i - 1]));
+            prefixCost[i] = prefixCost[i - 1] + (closest[i - 1] == i ? 1 : abs(nums[i] - nums[i - 1]));
         }
         vector<int> suffixCost(n + 1, 0);
         for (int i = n - 2; i >= 0; i--) {
-            suffixCost[i] =
-                suffixCost[i + 1] +
-                (closest[i + 1] == i ? 1 : abs(nums[i + 1] - nums[i]));
+            suffixCost[i] = suffixCost[i + 1] + (closest[i + 1] == i ? 1 : abs(nums[i + 1] - nums[i]));
         }
         vector<int> ans(q, 0);
         for (int i = 0; i < q; i++) {
