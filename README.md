@@ -169,6 +169,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [2615-sum-of-distances](https://github.com/TARAK0506/LEETCODE/tree/master/2615-sum-of-distances) |
 | [2708-maximum-strength-of-a-group](https://github.com/TARAK0506/LEETCODE/tree/master/2708-maximum-strength-of-a-group) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/TARAK0506/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/TARAK0506/LEETCODE/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/TARAK0506/LEETCODE/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/TARAK0506/LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3479-fruits-into-baskets-iii](https://github.com/TARAK0506/LEETCODE/tree/master/3479-fruits-into-baskets-iii) |
