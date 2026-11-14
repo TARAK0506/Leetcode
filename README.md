@@ -171,6 +171,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/TARAK0506/LEETCODE/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/TARAK0506/LEETCODE/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/TARAK0506/LEETCODE/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+| [3364-minimum-positive-sum-subarray](https://github.com/TARAK0506/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/TARAK0506/LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3479-fruits-into-baskets-iii](https://github.com/TARAK0506/LEETCODE/tree/master/3479-fruits-into-baskets-iii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TARAK0506/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
@@ -343,6 +344,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [2438-range-product-queries-of-powers](https://github.com/TARAK0506/LEETCODE/tree/master/2438-range-product-queries-of-powers) |
 | [2615-sum-of-distances](https://github.com/TARAK0506/LEETCODE/tree/master/2615-sum-of-distances) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/TARAK0506/LEETCODE/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+| [3364-minimum-positive-sum-subarray](https://github.com/TARAK0506/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/TARAK0506/LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/TARAK0506/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
@@ -394,6 +396,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TARAK0506/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/TARAK0506/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Greedy
 |  |
 | ------- |
