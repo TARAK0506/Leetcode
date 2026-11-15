@@ -158,6 +158,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0724-find-pivot-index](https://github.com/TARAK0506/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TARAK0506/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1314-matrix-block-sum](https://github.com/TARAK0506/LEETCODE/tree/master/1314-matrix-block-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/TARAK0506/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TARAK0506/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/TARAK0506/LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TARAK0506/LEETCODE/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -279,6 +280,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0032-longest-valid-parentheses](https://github.com/TARAK0506/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/TARAK0506/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/TARAK0506/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/TARAK0506/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2420-find-all-good-indices](https://github.com/TARAK0506/LEETCODE/tree/master/2420-find-all-good-indices) |
 | [2708-maximum-strength-of-a-group](https://github.com/TARAK0506/LEETCODE/tree/master/2708-maximum-strength-of-a-group) |
 ## DP on Trees
@@ -319,6 +321,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0002-add-two-numbers](https://github.com/TARAK0506/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/TARAK0506/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TARAK0506/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/TARAK0506/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/TARAK0506/LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/TARAK0506/LEETCODE/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/TARAK0506/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -337,6 +340,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | ------- |
 | [0724-find-pivot-index](https://github.com/TARAK0506/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1314-matrix-block-sum](https://github.com/TARAK0506/LEETCODE/tree/master/1314-matrix-block-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/TARAK0506/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TARAK0506/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/TARAK0506/LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TARAK0506/LEETCODE/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
