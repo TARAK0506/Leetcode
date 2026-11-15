@@ -3,21 +3,18 @@ class Solution {
 
 public:
     int numOfSubarrays(vector<int>& arr) {
-        long long n = arr.size(), cnt = 0, prefixSum = 0;
-        unordered_map<long long, long long> mp;
-        long long i = 0, totalSubarrays = n * (n + 1) / 2;
-        while (i < n) {
-            prefixSum += arr[i];
-            prefixSum = prefixSum % 2;
-            if (prefixSum == 0)
-                cnt += 1;
-            if (mp.find(prefixSum) != mp.end()) {
-                cnt += mp[prefixSum];
+        int n = arr.size(), evenCnt = 1, oddCnt = 0;
+        int sum = 0, cnt = 0;
+        for (int i = 0; i < n; i++) {
+            sum += arr[i];
+            if ((sum & 1) == 0) {
+                cnt = (cnt + oddCnt) % MOD;
+                evenCnt += 1;
+            } else {
+                cnt = (cnt + evenCnt) % MOD;
+                oddCnt += 1;
             }
-            mp[prefixSum] += 1;
-            i += 1;
         }
-        cnt = totalSubarrays - cnt;
         return cnt % MOD;
     }
 };
