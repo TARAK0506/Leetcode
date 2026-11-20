@@ -89,6 +89,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/TARAK0506/LEETCODE/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0367-valid-perfect-square](https://github.com/TARAK0506/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0449-serialize-and-deserialize-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/TARAK0506/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -319,6 +320,7 @@ A collection of LeetCode solutions to help you prepare for coding interviews, st
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/TARAK0506/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0367-valid-perfect-square](https://github.com/TARAK0506/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/TARAK0506/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TARAK0506/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/TARAK0506/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
